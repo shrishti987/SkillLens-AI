@@ -1,0 +1,501 @@
+Order_ID,Date,Product_Category,Product,Customer_Age,Region,Quantity,Price,Revenue
+1001,2024-05-10,Electronics,Bluetooth Speaker,59,South,2,36032,72064
+1002,2024-05-16,Home Appliances,Refrigerator,27,North,1,11511,11511
+1003,2024-05-21,Clothing,T-shirt,50,North,1,3727,3727
+1004,2024-02-06,Clothing,T-shirt,34,East,4,3444,13776
+1005,2024-01-31,Clothing,Sweater,40,South,4,3104,12416
+1006,2024-01-23,Home Appliances,Mixer Grinder,19,West,5,6502,32510
+1007,2024-02-10,Home Appliances,Vacuum Cleaner,54,West,3,32646,97938
+1008,2024-05-02,Clothing,Jeans,29,North,3,3852,11556
+1009,2024-01-12,Clothing,Shirt,41,East,4,2043,8172
+1010,2024-05-11,Clothing,Sweater,23,West,4,3689,14756
+1011,2024-05-05,Clothing,Shirt,54,East,2,3902,7804
+1012,2024-04-03,Electronics,Smartphone,30,West,2,46457,92914
+1013,2024-02-22,Home Appliances,Air Fryer,39,East,2,33596,67192
+1014,2024-05-26,Home Appliances,Mixer Grinder,51,South,2,41741,83482
+1015,2024-03-14,Clothing,Sweater,46,West,4,2466,9864
+1016,2024-06-13,Home Appliances,Vacuum Cleaner,43,West,2,9526,19052
+1017,2024-03-10,Home Appliances,Washing Machine,55,West,1,42143,42143
+1018,2024-02-26,Electronics,Bluetooth Speaker,21,West,5,45279,226395
+1019,2024-06-21,Clothing,Jacket,56,West,5,674,3370
+1020,2024-01-06,Clothing,Shoes,47,North,3,1381,4143
+1021,2024-05-14,Electronics,Laptop,57,East,1,48597,48597
+1022,2024-02-27,Clothing,Jacket,21,East,4,3405,13620
+1023,2024-04-19,Clothing,Hoodie,50,South,5,2847,14235
+1024,2024-01-11,Home Appliances,Washing Machine,29,East,5,44119,220595
+1025,2024-05-13,Clothing,Hoodie,21,East,2,2473,4946
+1026,2024-05-10,Electronics,Bluetooth Speaker,53,East,4,28698,114792
+1027,2024-03-04,Home Appliances,Vacuum Cleaner,54,North,2,14619,29238
+1028,2024-05-21,Clothing,Jeans,36,East,3,3977,11931
+1029,2024-02-14,Clothing,Jeans,41,North,2,3289,6578
+1030,2024-03-21,Home Appliances,Air Fryer,20,East,1,24569,24569
+1031,2024-01-21,Electronics,Smartwatch,36,East,5,31459,157295
+1032,2024-04-06,Electronics,Headphones,43,West,2,38281,76562
+1033,2024-02-05,Clothing,Jeans,55,North,4,2639,10556
+1034,2024-01-23,Electronics,Tablet,54,North,2,11980,23960
+1035,2024-06-21,Clothing,Sweater,22,West,3,2737,8211
+1036,2024-01-12,Electronics,Tablet,42,South,2,49693,99386
+1037,2024-05-16,Home Appliances,Microwave,26,East,4,37186,148744
+1038,2024-02-29,Electronics,Bluetooth Speaker,21,East,5,46013,230065
+1039,2024-02-05,Home Appliances,Washing Machine,50,West,4,17363,69452
+1040,2024-06-21,Clothing,Jeans,50,North,4,1889,7556
+1041,2024-05-23,Electronics,Monitor,32,East,5,46149,230745
+1042,2024-04-29,Clothing,Hoodie,46,South,5,773,3865
+1043,2024-01-23,Home Appliances,Washing Machine,60,North,3,19739,59217
+1044,2024-06-25,Clothing,Jeans,33,East,2,1346,2692
+1045,2024-01-16,Electronics,Tablet,58,South,5,50670,253350
+1046,2024-05-25,Electronics,Power Bank,56,West,5,41645,208225
+1047,2024-01-19,Clothing,Sweater,52,North,4,1124,4496
+1048,2024-06-24,Clothing,Hoodie,51,South,1,2500,2500
+1049,2024-04-09,Clothing,Shoes,50,South,4,3083,12332
+1050,2024-05-11,Electronics,Laptop,22,East,3,44057,132171
+1051,2024-05-02,Home Appliances,Vacuum Cleaner,36,South,3,17017,51051
+1052,2024-05-13,Clothing,Shirt,34,South,4,778,3112
+1053,2024-05-27,Clothing,Shoes,40,West,2,3191,6382
+1054,2024-06-11,Clothing,Sweater,57,North,4,1223,4892
+1055,2024-01-02,Clothing,Jacket,45,South,3,1940,5820
+1056,2024-02-21,Home Appliances,Washing Machine,35,South,2,8829,17658
+1057,2024-02-05,Electronics,Smartphone,19,West,4,30315,121260
+1058,2024-01-17,Electronics,Headphones,57,West,1,26770,26770
+1059,2024-05-18,Home Appliances,Refrigerator,35,North,4,22754,91016
+1060,2024-06-25,Clothing,Shirt,49,North,4,3957,15828
+1061,2024-01-28,Home Appliances,Mixer Grinder,24,South,3,48154,144462
+1062,2024-05-09,Home Appliances,Washing Machine,48,North,4,24359,97436
+1063,2024-03-21,Electronics,Monitor,27,East,4,35950,143800
+1064,2024-04-13,Clothing,Jeans,36,West,4,2555,10220
+1065,2024-06-17,Home Appliances,Mixer Grinder,56,West,4,45913,183652
+1066,2024-06-13,Electronics,Laptop,40,North,1,21701,21701
+1067,2024-06-23,Home Appliances,Refrigerator,25,South,2,39713,79426
+1068,2024-05-08,Clothing,Jacket,37,South,2,704,1408
+1069,2024-04-16,Electronics,Tablet,59,West,2,56247,112494
+1070,2024-04-14,Electronics,Monitor,50,South,1,7618,7618
+1071,2024-03-13,Electronics,Power Bank,37,East,4,31708,126832
+1072,2024-02-05,Clothing,Jacket,55,West,4,2894,11576
+1073,2024-05-28,Clothing,Jeans,57,North,2,2955,5910
+1074,2024-06-22,Clothing,T-shirt,28,East,3,1552,4656
+1075,2024-01-03,Clothing,Shoes,59,East,5,1601,8005
+1076,2024-05-18,Home Appliances,Washing Machine,35,South,2,45775,91550
+1077,2024-04-21,Clothing,Shirt,19,West,5,2318,11590
+1078,2024-02-11,Electronics,Camera,51,East,4,27016,108064
+1079,2024-03-28,Electronics,Laptop,21,North,4,30106,120424
+1080,2024-05-14,Electronics,Monitor,48,South,3,9546,28638
+1081,2024-03-11,Clothing,Jeans,20,South,1,1822,1822
+1082,2024-06-24,Electronics,Smartwatch,28,East,3,47936,143808
+1083,2024-04-14,Home Appliances,Microwave,33,West,4,22967,91868
+1084,2024-05-25,Electronics,Power Bank,49,West,2,59273,118546
+1085,2024-01-09,Home Appliances,Washing Machine,24,East,5,45191,225955
+1086,2024-06-02,Clothing,Shoes,34,South,5,2399,11995
+1087,2024-03-29,Electronics,Tablet,23,South,3,37386,112158
+1088,2024-01-29,Clothing,Sweater,21,East,3,2442,7326
+1089,2024-04-23,Electronics,Laptop,35,East,1,26628,26628
+1090,2024-01-23,Electronics,Smartwatch,24,South,4,38293,153172
+1091,2024-01-03,Electronics,Headphones,43,East,4,20021,80084
+1092,2024-01-01,Clothing,Shoes,40,West,2,2696,5392
+1093,2024-02-17,Home Appliances,Mixer Grinder,46,East,5,30149,150745
+1094,2024-03-05,Clothing,Shoes,30,North,2,2636,5272
+1095,2024-06-04,Electronics,Bluetooth Speaker,39,South,4,24745,98980
+1096,2024-01-25,Clothing,Hoodie,52,South,3,2625,7875
+1097,2024-05-25,Home Appliances,Mixer Grinder,60,North,3,16608,49824
+1098,2024-01-08,Electronics,Bluetooth Speaker,24,North,1,32086,32086
+1099,2024-05-20,Clothing,T-shirt,25,West,5,739,3695
+1100,2024-06-26,Home Appliances,Air Fryer,33,South,1,45033,45033
+1101,2024-05-25,Clothing,Jacket,33,North,3,3708,11124
+1102,2024-04-13,Home Appliances,Refrigerator,35,North,5,13635,68175
+1103,2024-02-16,Home Appliances,Refrigerator,29,East,3,41977,125931
+1104,2024-05-23,Electronics,Smartwatch,49,South,2,48965,97930
+1105,2024-06-13,Home Appliances,Vacuum Cleaner,43,South,4,43046,172184
+1106,2024-01-05,Clothing,Shoes,36,South,2,781,1562
+1107,2024-06-04,Clothing,Shoes,38,South,4,1543,6172
+1108,2024-05-12,Clothing,Shirt,59,South,3,1154,3462
+1109,2024-01-03,Home Appliances,Vacuum Cleaner,52,East,1,32774,32774
+1110,2024-01-21,Clothing,Jacket,37,South,1,663,663
+1111,2024-02-03,Clothing,Hoodie,40,South,2,1884,3768
+1112,2024-01-31,Clothing,Shirt,44,East,3,2017,6051
+1113,2024-04-14,Home Appliances,Mixer Grinder,36,North,4,42014,168056
+1114,2024-02-09,Clothing,Jacket,52,North,5,1439,7195
+1115,2024-04-16,Electronics,Monitor,30,East,5,35483,177415
+1116,2024-03-09,Clothing,Shoes,46,West,5,3095,15475
+1117,2024-01-03,Clothing,Jeans,29,North,5,3030,15150
+1118,2024-06-29,Electronics,Headphones,36,East,1,3069,3069
+1119,2024-03-15,Electronics,Bluetooth Speaker,24,North,3,58637,175911
+1120,2024-04-12,Electronics,Smartphone,27,South,2,6535,13070
+1121,2024-05-03,Electronics,Tablet,56,South,5,54948,274740
+1122,2024-05-13,Home Appliances,Air Fryer,42,North,1,22569,22569
+1123,2024-05-21,Electronics,Bluetooth Speaker,29,North,5,48259,241295
+1124,2024-06-04,Electronics,Camera,32,West,3,1557,4671
+1125,2024-03-10,Electronics,Camera,48,East,1,54029,54029
+1126,2024-01-06,Home Appliances,Refrigerator,20,South,1,6462,6462
+1127,2024-02-17,Electronics,Smartphone,31,West,2,43201,86402
+1128,2024-05-18,Home Appliances,Vacuum Cleaner,38,East,5,20745,103725
+1129,2024-06-18,Home Appliances,Washing Machine,53,East,2,14776,29552
+1130,2024-03-24,Clothing,Hoodie,45,South,4,532,2128
+1131,2024-01-27,Home Appliances,Vacuum Cleaner,22,East,5,42052,210260
+1132,2024-03-02,Clothing,Hoodie,43,North,3,3833,11499
+1133,2024-05-28,Home Appliances,Air Fryer,50,West,1,16168,16168
+1134,2024-03-28,Electronics,Smartphone,23,South,5,16305,81525
+1135,2024-03-18,Electronics,Monitor,32,South,4,52995,211980
+1136,2024-05-31,Home Appliances,Mixer Grinder,21,West,4,5250,21000
+1137,2024-05-09,Clothing,Jeans,33,North,2,683,1366
+1138,2024-02-13,Electronics,Smartphone,19,South,3,47617,142851
+1139,2024-05-26,Home Appliances,Refrigerator,56,East,5,14421,72105
+1140,2024-05-11,Electronics,Bluetooth Speaker,53,South,2,35185,70370
+1141,2024-06-28,Electronics,Smartwatch,54,South,4,8651,34604
+1142,2024-05-07,Home Appliances,Mixer Grinder,21,East,2,14072,28144
+1143,2024-04-30,Electronics,Power Bank,19,West,3,14158,42474
+1144,2024-06-13,Electronics,Bluetooth Speaker,39,East,3,49202,147606
+1145,2024-05-14,Home Appliances,Microwave,21,East,2,35035,70070
+1146,2024-03-20,Clothing,Jacket,37,North,1,1122,1122
+1147,2024-02-23,Home Appliances,Vacuum Cleaner,46,East,5,46272,231360
+1148,2024-06-05,Clothing,Shirt,40,West,2,2748,5496
+1149,2024-03-16,Clothing,Hoodie,58,North,2,3776,7552
+1150,2024-03-21,Clothing,Shoes,19,South,5,1367,6835
+1151,2024-06-19,Home Appliances,Air Fryer,57,North,1,48935,48935
+1152,2024-03-22,Electronics,Camera,32,East,1,51612,51612
+1153,2024-03-09,Home Appliances,Mixer Grinder,38,South,1,41215,41215
+1154,2024-06-18,Electronics,Bluetooth Speaker,60,East,5,41311,206555
+1155,2024-06-07,Clothing,Shoes,51,East,3,3588,10764
+1156,2024-04-28,Electronics,Power Bank,54,North,3,36552,109656
+1157,2024-05-13,Electronics,Monitor,27,West,4,52826,211304
+1158,2024-03-22,Electronics,Monitor,58,South,4,8249,32996
+1159,2024-02-22,Electronics,Tablet,43,West,5,18174,90870
+1160,2024-04-05,Home Appliances,Refrigerator,38,North,5,3057,15285
+1161,2024-01-02,Home Appliances,Washing Machine,18,West,2,48810,97620
+1162,2024-01-30,Clothing,Hoodie,22,South,1,1668,1668
+1163,2024-01-27,Clothing,Jeans,45,West,1,1869,1869
+1164,2024-05-04,Clothing,Shoes,22,West,4,3483,13932
+1165,2024-02-17,Home Appliances,Mixer Grinder,28,East,5,16324,81620
+1166,2024-03-20,Electronics,Smartwatch,23,West,5,28835,144175
+1167,2024-06-12,Electronics,Smartphone,24,South,4,32304,129216
+1168,2024-04-09,Electronics,Tablet,57,East,2,16839,33678
+1169,2024-04-05,Clothing,Shoes,48,South,2,881,1762
+1170,2024-03-11,Clothing,Jeans,22,South,5,1679,8395
+1171,2024-06-16,Electronics,Laptop,19,East,4,31226,124904
+1172,2024-02-02,Clothing,Jacket,30,East,1,2666,2666
+1173,2024-02-14,Electronics,Tablet,19,East,5,29543,147715
+1174,2024-04-01,Clothing,Sweater,30,South,1,1647,1647
+1175,2024-04-29,Clothing,Jeans,32,West,2,3043,6086
+1176,2024-06-05,Electronics,Smartphone,28,North,2,54258,108516
+1177,2024-04-25,Electronics,Power Bank,35,South,5,54712,273560
+1178,2024-02-27,Electronics,Camera,25,West,1,3902,3902
+1179,2024-04-03,Home Appliances,Washing Machine,20,North,4,41116,164464
+1180,2024-03-31,Electronics,Monitor,29,South,1,27133,27133
+1181,2024-02-28,Clothing,Shoes,41,West,1,1831,1831
+1182,2024-01-01,Electronics,Camera,22,North,3,9823,29469
+1183,2024-03-11,Home Appliances,Vacuum Cleaner,36,North,2,32831,65662
+1184,2024-02-14,Clothing,Jeans,52,West,3,1602,4806
+1185,2024-02-22,Electronics,Monitor,45,North,3,52288,156864
+1186,2024-04-26,Clothing,Shoes,58,West,1,2232,2232
+1187,2024-04-30,Electronics,Bluetooth Speaker,48,West,4,41311,165244
+1188,2024-06-09,Electronics,Headphones,29,South,5,37049,185245
+1189,2024-05-24,Clothing,Shirt,40,East,2,2679,5358
+1190,2024-03-15,Clothing,Shoes,30,North,3,2404,7212
+1191,2024-06-24,Home Appliances,Microwave,50,West,2,22250,44500
+1192,2024-01-20,Home Appliances,Microwave,60,North,4,20999,83996
+1193,2024-04-29,Home Appliances,Vacuum Cleaner,23,North,5,43285,216425
+1194,2024-04-20,Home Appliances,Vacuum Cleaner,38,West,4,36144,144576
+1195,2024-02-22,Home Appliances,Microwave,20,East,2,43780,87560
+1196,2024-06-16,Home Appliances,Air Fryer,27,South,3,28496,85488
+1197,2024-05-21,Clothing,T-shirt,31,South,2,1129,2258
+1198,2024-06-22,Electronics,Smartphone,44,West,4,53357,213428
+1199,2024-04-30,Clothing,Jacket,44,South,1,1580,1580
+1200,2024-06-24,Home Appliances,Washing Machine,21,East,1,33619,33619
+1201,2024-02-06,Home Appliances,Mixer Grinder,22,East,1,9891,9891
+1202,2024-03-31,Home Appliances,Washing Machine,51,West,2,11964,23928
+1203,2024-06-12,Home Appliances,Refrigerator,56,North,5,11799,58995
+1204,2024-03-16,Electronics,Power Bank,31,North,5,16665,83325
+1205,2024-04-11,Electronics,Monitor,58,North,5,7468,37340
+1206,2024-05-03,Clothing,Shirt,53,South,2,749,1498
+1207,2024-05-25,Home Appliances,Mixer Grinder,57,South,1,47084,47084
+1208,2024-05-05,Electronics,Camera,34,West,3,9675,29025
+1209,2024-04-27,Home Appliances,Air Fryer,39,West,3,14368,43104
+1210,2024-05-28,Electronics,Headphones,36,North,5,46509,232545
+1211,2024-01-30,Electronics,Monitor,49,West,3,14007,42021
+1212,2024-06-03,Clothing,Hoodie,56,West,4,1747,6988
+1213,2024-03-31,Home Appliances,Washing Machine,38,South,3,37076,111228
+1214,2024-03-23,Clothing,Jacket,60,East,2,2501,5002
+1215,2024-01-29,Electronics,Laptop,42,South,4,28775,115100
+1216,2024-03-01,Clothing,Shoes,28,West,4,1588,6352
+1217,2024-05-18,Clothing,Shirt,50,East,3,2990,8970
+1218,2024-05-24,Home Appliances,Air Fryer,59,North,5,38444,192220
+1219,2024-06-12,Home Appliances,Air Fryer,60,West,5,18612,93060
+1220,2024-04-09,Home Appliances,Mixer Grinder,36,South,3,31015,93045
+1221,2024-01-05,Home Appliances,Refrigerator,26,South,1,18418,18418
+1222,2024-02-11,Home Appliances,Air Fryer,48,West,4,45991,183964
+1223,2024-01-01,Clothing,Hoodie,35,North,2,2982,5964
+1224,2024-05-30,Clothing,Shoes,49,East,2,992,1984
+1225,2024-02-28,Home Appliances,Mixer Grinder,22,East,2,6579,13158
+1226,2024-01-25,Electronics,Headphones,31,West,4,3528,14112
+1227,2024-02-05,Clothing,Sweater,44,North,4,833,3332
+1228,2024-03-07,Home Appliances,Air Fryer,56,West,1,29130,29130
+1229,2024-04-24,Electronics,Bluetooth Speaker,49,South,2,11743,23486
+1230,2024-04-26,Clothing,Jeans,47,East,2,2074,4148
+1231,2024-02-07,Electronics,Smartwatch,35,South,1,53905,53905
+1232,2024-04-18,Electronics,Monitor,20,East,4,54529,218116
+1233,2024-02-27,Clothing,Shirt,47,North,1,1744,1744
+1234,2024-04-15,Clothing,Hoodie,26,South,4,2642,10568
+1235,2024-03-23,Clothing,Jeans,31,East,1,1815,1815
+1236,2024-05-16,Electronics,Bluetooth Speaker,50,East,1,21204,21204
+1237,2024-04-25,Electronics,Camera,46,West,5,18942,94710
+1238,2024-03-31,Electronics,Tablet,56,North,1,21767,21767
+1239,2024-06-14,Home Appliances,Vacuum Cleaner,46,West,2,38399,76798
+1240,2024-02-25,Clothing,Jacket,51,South,5,719,3595
+1241,2024-01-04,Home Appliances,Vacuum Cleaner,40,West,3,25237,75711
+1242,2024-03-25,Electronics,Monitor,32,East,3,20440,61320
+1243,2024-04-24,Home Appliances,Washing Machine,41,North,3,10031,30093
+1244,2024-01-25,Home Appliances,Mixer Grinder,49,South,1,31441,31441
+1245,2024-01-19,Home Appliances,Air Fryer,18,North,2,21401,42802
+1246,2024-06-19,Electronics,Smartwatch,42,East,2,45108,90216
+1247,2024-02-16,Clothing,Shoes,49,West,1,569,569
+1248,2024-03-07,Electronics,Power Bank,27,East,5,15954,79770
+1249,2024-01-10,Electronics,Power Bank,49,North,2,19766,39532
+1250,2024-06-08,Electronics,Laptop,53,North,5,42239,211195
+1251,2024-04-08,Home Appliances,Vacuum Cleaner,29,North,3,16306,48918
+1252,2024-03-13,Electronics,Power Bank,35,East,5,26183,130915
+1253,2024-01-15,Home Appliances,Washing Machine,40,North,1,13906,13906
+1254,2024-05-03,Home Appliances,Microwave,44,South,4,42134,168536
+1255,2024-03-19,Home Appliances,Washing Machine,30,West,3,22255,66765
+1256,2024-04-30,Electronics,Power Bank,32,South,5,28664,143320
+1257,2024-05-26,Electronics,Headphones,24,North,1,30923,30923
+1258,2024-02-18,Home Appliances,Refrigerator,30,West,2,24179,48358
+1259,2024-05-29,Home Appliances,Refrigerator,37,West,2,26185,52370
+1260,2024-02-24,Clothing,Hoodie,48,North,2,861,1722
+1261,2024-05-31,Clothing,Hoodie,24,East,4,1416,5664
+1262,2024-06-20,Home Appliances,Air Fryer,35,West,1,35943,35943
+1263,2024-05-22,Clothing,Sweater,45,East,3,757,2271
+1264,2024-06-12,Clothing,T-shirt,47,East,4,3476,13904
+1265,2024-05-13,Home Appliances,Air Fryer,41,East,2,8061,16122
+1266,2024-01-23,Home Appliances,Vacuum Cleaner,19,North,5,14333,71665
+1267,2024-02-02,Electronics,Laptop,29,South,1,54094,54094
+1268,2024-03-19,Clothing,Shoes,43,South,5,526,2630
+1269,2024-03-03,Electronics,Camera,59,West,1,22632,22632
+1270,2024-05-29,Home Appliances,Vacuum Cleaner,47,East,5,41109,205545
+1271,2024-06-13,Clothing,T-shirt,38,West,1,2412,2412
+1272,2024-05-31,Electronics,Smartwatch,59,West,3,4759,14277
+1273,2024-02-05,Home Appliances,Refrigerator,41,West,2,6133,12266
+1274,2024-05-01,Electronics,Bluetooth Speaker,26,North,3,34500,103500
+1275,2024-05-16,Clothing,Sweater,47,West,2,3935,7870
+1276,2024-04-25,Clothing,Sweater,37,North,3,1771,5313
+1277,2024-01-01,Electronics,Tablet,29,North,5,51067,255335
+1278,2024-03-29,Clothing,Hoodie,21,East,2,920,1840
+1279,2024-03-21,Electronics,Tablet,34,South,4,48182,192728
+1280,2024-04-30,Home Appliances,Microwave,26,East,1,17159,17159
+1281,2024-01-21,Home Appliances,Mixer Grinder,39,West,4,43088,172352
+1282,2024-05-21,Home Appliances,Washing Machine,22,West,1,28934,28934
+1283,2024-02-03,Electronics,Monitor,54,East,5,12248,61240
+1284,2024-03-30,Clothing,T-shirt,32,West,2,1150,2300
+1285,2024-03-18,Home Appliances,Mixer Grinder,49,West,3,27169,81507
+1286,2024-02-13,Electronics,Headphones,24,South,2,52596,105192
+1287,2024-05-26,Clothing,T-shirt,41,East,5,3141,15705
+1288,2024-06-19,Home Appliances,Mixer Grinder,22,East,4,7140,28560
+1289,2024-05-25,Clothing,Shoes,25,North,5,3460,17300
+1290,2024-01-21,Home Appliances,Mixer Grinder,55,East,2,6495,12990
+1291,2024-06-25,Electronics,Laptop,31,North,5,6084,30420
+1292,2024-01-16,Home Appliances,Microwave,21,West,1,41168,41168
+1293,2024-05-25,Clothing,Jacket,30,North,3,739,2217
+1294,2024-04-07,Electronics,Bluetooth Speaker,26,West,2,54954,109908
+1295,2024-04-16,Clothing,T-shirt,37,North,1,966,966
+1296,2024-03-10,Electronics,Camera,22,West,2,21268,42536
+1297,2024-06-21,Clothing,Jeans,20,South,1,1365,1365
+1298,2024-06-28,Electronics,Laptop,55,West,3,55239,165717
+1299,2024-02-14,Electronics,Smartwatch,55,West,5,35862,179310
+1300,2024-05-12,Home Appliances,Washing Machine,60,South,1,14820,14820
+1301,2024-06-11,Clothing,T-shirt,28,East,5,1027,5135
+1302,2024-01-18,Electronics,Monitor,26,South,2,40164,80328
+1303,2024-04-01,Electronics,Headphones,55,West,5,37369,186845
+1304,2024-02-28,Clothing,Hoodie,34,North,4,1185,4740
+1305,2024-02-14,Electronics,Smartwatch,23,South,2,17381,34762
+1306,2024-02-25,Clothing,T-shirt,60,East,5,1987,9935
+1307,2024-04-12,Clothing,Shoes,43,West,5,3267,16335
+1308,2024-04-11,Clothing,Jacket,32,West,3,2664,7992
+1309,2024-02-01,Electronics,Headphones,33,North,3,52764,158292
+1310,2024-06-02,Home Appliances,Refrigerator,43,North,3,33865,101595
+1311,2024-03-02,Home Appliances,Microwave,39,East,3,37386,112158
+1312,2024-05-27,Electronics,Smartphone,39,East,5,7228,36140
+1313,2024-05-19,Home Appliances,Vacuum Cleaner,33,West,2,34835,69670
+1314,2024-04-14,Clothing,Sweater,33,South,1,711,711
+1315,2024-03-14,Home Appliances,Microwave,40,North,3,44820,134460
+1316,2024-01-26,Home Appliances,Mixer Grinder,30,North,5,32003,160015
+1317,2024-04-25,Clothing,Jacket,21,East,3,2302,6906
+1318,2024-04-28,Home Appliances,Air Fryer,30,North,3,22817,68451
+1319,2024-02-18,Clothing,T-shirt,25,North,2,3661,7322
+1320,2024-06-29,Electronics,Bluetooth Speaker,27,West,3,42282,126846
+1321,2024-05-11,Home Appliances,Mixer Grinder,53,East,1,31531,31531
+1322,2024-02-21,Home Appliances,Microwave,55,North,5,40450,202250
+1323,2024-02-28,Electronics,Tablet,41,West,4,51227,204908
+1324,2024-06-04,Home Appliances,Mixer Grinder,42,East,5,20037,100185
+1325,2024-05-11,Home Appliances,Air Fryer,31,West,1,10205,10205
+1326,2024-06-03,Clothing,Jeans,29,East,4,1079,4316
+1327,2024-05-24,Home Appliances,Washing Machine,44,South,3,41337,124011
+1328,2024-05-04,Clothing,Jacket,27,East,3,3086,9258
+1329,2024-03-08,Clothing,Hoodie,59,East,5,813,4065
+1330,2024-06-04,Electronics,Monitor,19,East,1,32812,32812
+1331,2024-05-13,Clothing,T-shirt,45,South,2,2189,4378
+1332,2024-03-12,Home Appliances,Air Fryer,18,West,1,15857,15857
+1333,2024-04-14,Home Appliances,Microwave,32,South,5,29036,145180
+1334,2024-01-07,Electronics,Monitor,41,South,3,41504,124512
+1335,2024-05-18,Home Appliances,Refrigerator,33,North,4,31520,126080
+1336,2024-04-16,Home Appliances,Microwave,26,East,5,38850,194250
+1337,2024-02-27,Electronics,Headphones,59,South,2,58964,117928
+1338,2024-02-18,Electronics,Camera,31,North,4,21388,85552
+1339,2024-03-14,Clothing,Jeans,25,South,3,1963,5889
+1340,2024-01-14,Electronics,Power Bank,18,West,1,44840,44840
+1341,2024-03-14,Clothing,Hoodie,21,West,2,3497,6994
+1342,2024-01-31,Home Appliances,Microwave,23,North,1,33124,33124
+1343,2024-05-14,Electronics,Camera,25,North,3,50012,150036
+1344,2024-01-18,Home Appliances,Washing Machine,20,North,5,17760,88800
+1345,2024-06-18,Home Appliances,Microwave,28,West,5,39695,198475
+1346,2024-01-31,Home Appliances,Vacuum Cleaner,41,North,2,12027,24054
+1347,2024-03-05,Home Appliances,Air Fryer,19,East,4,23515,94060
+1348,2024-04-09,Clothing,T-shirt,55,East,2,2530,5060
+1349,2024-01-05,Electronics,Monitor,23,South,1,2983,2983
+1350,2024-03-05,Clothing,Jacket,43,West,3,1018,3054
+1351,2024-01-08,Home Appliances,Mixer Grinder,44,West,2,22059,44118
+1352,2024-01-27,Electronics,Camera,44,South,3,30994,92982
+1353,2024-04-03,Home Appliances,Air Fryer,29,South,5,41856,209280
+1354,2024-03-24,Home Appliances,Refrigerator,30,East,3,14922,44766
+1355,2024-03-28,Home Appliances,Refrigerator,52,West,1,39463,39463
+1356,2024-03-22,Home Appliances,Refrigerator,42,West,5,5460,27300
+1357,2024-04-22,Home Appliances,Refrigerator,41,South,1,6343,6343
+1358,2024-06-11,Electronics,Monitor,55,North,2,18248,36496
+1359,2024-05-15,Electronics,Power Bank,21,West,5,9516,47580
+1360,2024-05-29,Clothing,Sweater,58,West,2,3944,7888
+1361,2024-01-27,Home Appliances,Vacuum Cleaner,21,West,5,36169,180845
+1362,2024-02-23,Home Appliances,Microwave,26,North,4,10549,42196
+1363,2024-02-07,Home Appliances,Mixer Grinder,49,South,3,10333,30999
+1364,2024-04-26,Electronics,Monitor,53,North,2,41988,83976
+1365,2024-04-18,Home Appliances,Washing Machine,46,East,4,30518,122072
+1366,2024-06-27,Electronics,Headphones,51,East,4,12700,50800
+1367,2024-05-15,Electronics,Monitor,55,East,3,17314,51942
+1368,2024-03-24,Electronics,Laptop,32,East,4,18467,73868
+1369,2024-01-28,Clothing,Jeans,50,North,5,3364,16820
+1370,2024-05-11,Home Appliances,Refrigerator,47,North,4,14619,58476
+1371,2024-05-20,Home Appliances,Refrigerator,48,East,3,35332,105996
+1372,2024-03-30,Home Appliances,Microwave,40,North,4,16510,66040
+1373,2024-03-14,Clothing,Hoodie,58,North,2,1820,3640
+1374,2024-05-06,Electronics,Headphones,49,North,2,26416,52832
+1375,2024-01-30,Electronics,Power Bank,21,South,1,32398,32398
+1376,2024-04-07,Electronics,Smartphone,58,South,3,17503,52509
+1377,2024-02-06,Electronics,Bluetooth Speaker,60,West,4,55558,222232
+1378,2024-06-28,Clothing,T-shirt,38,East,5,1633,8165
+1379,2024-02-14,Electronics,Monitor,46,North,4,32342,129368
+1380,2024-06-25,Home Appliances,Refrigerator,46,South,2,4125,8250
+1381,2024-05-18,Home Appliances,Refrigerator,36,West,1,41594,41594
+1382,2024-03-23,Clothing,Shirt,29,North,1,3831,3831
+1383,2024-05-06,Electronics,Tablet,60,North,5,50906,254530
+1384,2024-02-26,Electronics,Camera,58,North,1,36226,36226
+1385,2024-04-21,Clothing,T-shirt,53,East,1,1023,1023
+1386,2024-04-27,Home Appliances,Microwave,32,North,2,30226,60452
+1387,2024-01-27,Clothing,Shirt,60,East,5,3688,18440
+1388,2024-05-22,Home Appliances,Air Fryer,27,North,1,7568,7568
+1389,2024-04-08,Clothing,Shoes,51,West,4,3867,15468
+1390,2024-01-27,Electronics,Bluetooth Speaker,48,North,2,6507,13014
+1391,2024-01-19,Clothing,T-shirt,34,East,4,901,3604
+1392,2024-04-26,Clothing,T-shirt,58,North,3,1907,5721
+1393,2024-05-17,Clothing,T-shirt,52,North,2,3540,7080
+1394,2024-02-18,Electronics,Laptop,28,East,4,11066,44264
+1395,2024-02-29,Clothing,Shoes,50,South,5,1750,8750
+1396,2024-06-27,Home Appliances,Refrigerator,25,West,2,3398,6796
+1397,2024-02-16,Home Appliances,Vacuum Cleaner,33,East,2,27541,55082
+1398,2024-03-26,Home Appliances,Mixer Grinder,47,South,3,45134,135402
+1399,2024-02-08,Electronics,Monitor,38,North,2,11071,22142
+1400,2024-02-22,Home Appliances,Refrigerator,35,South,5,5911,29555
+1401,2024-01-08,Electronics,Smartwatch,47,North,5,52150,260750
+1402,2024-06-18,Home Appliances,Washing Machine,48,South,2,4173,8346
+1403,2024-02-26,Electronics,Smartwatch,25,West,4,49515,198060
+1404,2024-04-26,Clothing,Sweater,20,East,3,1314,3942
+1405,2024-01-06,Clothing,Shoes,39,East,1,3417,3417
+1406,2024-06-02,Home Appliances,Refrigerator,51,South,4,29422,117688
+1407,2024-03-21,Electronics,Headphones,30,West,1,19005,19005
+1408,2024-05-02,Clothing,Jacket,35,North,5,1851,9255
+1409,2024-01-29,Electronics,Camera,40,West,5,47685,238425
+1410,2024-06-18,Electronics,Monitor,46,North,5,32973,164865
+1411,2024-02-11,Home Appliances,Refrigerator,59,West,5,5265,26325
+1412,2024-05-22,Clothing,T-shirt,19,West,4,896,3584
+1413,2024-06-19,Electronics,Laptop,23,North,4,18350,73400
+1414,2024-02-07,Electronics,Smartwatch,41,West,5,35948,179740
+1415,2024-02-06,Clothing,Shirt,49,South,1,1420,1420
+1416,2024-02-27,Clothing,Shirt,58,West,5,3627,18135
+1417,2024-03-11,Clothing,Hoodie,54,South,3,1618,4854
+1418,2024-06-22,Home Appliances,Refrigerator,36,East,5,29753,148765
+1419,2024-01-05,Home Appliances,Microwave,28,North,2,5576,11152
+1420,2024-02-19,Clothing,Sweater,36,West,2,2088,4176
+1421,2024-03-12,Clothing,Shirt,40,South,5,3996,19980
+1422,2024-06-02,Electronics,Headphones,28,East,1,26007,26007
+1423,2024-06-19,Clothing,Jacket,35,West,1,3611,3611
+1424,2024-01-21,Home Appliances,Refrigerator,30,South,1,18059,18059
+1425,2024-01-08,Electronics,Smartphone,47,East,2,22799,45598
+1426,2024-02-19,Clothing,Sweater,38,North,4,1351,5404
+1427,2024-04-25,Clothing,Jacket,42,North,4,3916,15664
+1428,2024-01-22,Home Appliances,Washing Machine,57,North,3,46786,140358
+1429,2024-04-02,Clothing,Sweater,59,East,1,588,588
+1430,2024-04-07,Electronics,Monitor,33,West,2,43841,87682
+1431,2024-01-27,Home Appliances,Air Fryer,56,South,3,41450,124350
+1432,2024-03-01,Home Appliances,Mixer Grinder,31,North,3,22948,68844
+1433,2024-02-12,Clothing,Shoes,43,East,3,3401,10203
+1434,2024-03-04,Electronics,Smartwatch,47,West,5,38176,190880
+1435,2024-05-01,Home Appliances,Vacuum Cleaner,24,North,4,14882,59528
+1436,2024-04-03,Clothing,T-shirt,47,West,5,3767,18835
+1437,2024-03-29,Clothing,Jeans,58,North,1,1875,1875
+1438,2024-01-28,Electronics,Laptop,52,West,1,58540,58540
+1439,2024-05-29,Clothing,Shirt,57,East,4,703,2812
+1440,2024-04-23,Electronics,Headphones,19,South,2,4038,8076
+1441,2024-03-01,Electronics,Headphones,19,North,2,41353,82706
+1442,2024-05-21,Electronics,Smartphone,33,West,5,28454,142270
+1443,2024-01-20,Clothing,Hoodie,57,North,3,1365,4095
+1444,2024-04-18,Electronics,Camera,18,West,5,13772,68860
+1445,2024-02-10,Clothing,Sweater,53,North,4,1808,7232
+1446,2024-06-12,Clothing,Sweater,31,North,4,2890,11560
+1447,2024-01-16,Home Appliances,Air Fryer,22,East,3,32243,96729
+1448,2024-01-26,Home Appliances,Washing Machine,53,South,1,21443,21443
+1449,2024-06-16,Electronics,Smartphone,46,West,1,42112,42112
+1450,2024-03-04,Electronics,Monitor,42,South,1,2302,2302
+1451,2024-05-06,Clothing,Shoes,58,East,5,3864,19320
+1452,2024-02-24,Electronics,Laptop,21,East,2,48168,96336
+1453,2024-05-03,Clothing,Shoes,53,West,5,2318,11590
+1454,2024-04-08,Home Appliances,Mixer Grinder,24,South,3,44831,134493
+1455,2024-01-15,Electronics,Smartphone,33,West,4,5604,22416
+1456,2024-05-25,Clothing,Jacket,42,West,3,866,2598
+1457,2024-06-16,Clothing,Shirt,28,South,3,2216,6648
+1458,2024-02-12,Electronics,Smartwatch,18,South,2,4192,8384
+1459,2024-03-22,Clothing,Jacket,59,East,3,2877,8631
+1460,2024-02-06,Home Appliances,Vacuum Cleaner,33,East,2,29041,58082
+1461,2024-06-20,Home Appliances,Vacuum Cleaner,52,West,1,25199,25199
+1462,2024-05-01,Electronics,Monitor,30,West,3,29260,87780
+1463,2024-04-15,Electronics,Laptop,28,North,3,57634,172902
+1464,2024-05-03,Electronics,Smartphone,50,East,4,7718,30872
+1465,2024-06-08,Electronics,Monitor,56,North,1,50450,50450
+1466,2024-03-12,Clothing,Jeans,20,West,4,2035,8140
+1467,2024-02-25,Clothing,Shirt,57,South,2,2271,4542
+1468,2024-01-21,Clothing,Sweater,39,South,1,573,573
+1469,2024-05-05,Electronics,Bluetooth Speaker,55,East,2,22992,45984
+1470,2024-03-04,Clothing,T-shirt,26,South,2,3033,6066
+1471,2024-04-29,Home Appliances,Refrigerator,33,South,3,42984,128952
+1472,2024-01-10,Home Appliances,Microwave,30,East,5,8736,43680
+1473,2024-04-19,Home Appliances,Microwave,26,North,4,22658,90632
+1474,2024-06-05,Home Appliances,Vacuum Cleaner,22,North,5,14563,72815
+1475,2024-03-02,Electronics,Laptop,43,South,4,7425,29700
+1476,2024-06-24,Electronics,Laptop,22,South,2,42129,84258
+1477,2024-02-13,Electronics,Smartwatch,46,West,4,11639,46556
+1478,2024-01-18,Clothing,Sweater,54,North,1,3570,3570
+1479,2024-01-04,Home Appliances,Mixer Grinder,35,West,2,13641,27282
+1480,2024-01-13,Clothing,Jeans,33,East,5,2781,13905
+1481,2024-05-21,Clothing,Shirt,22,West,2,3774,7548
+1482,2024-05-19,Electronics,Headphones,29,North,5,32476,162380
+1483,2024-01-13,Home Appliances,Air Fryer,29,West,1,18815,18815
+1484,2024-02-09,Home Appliances,Refrigerator,52,North,2,6364,12728
+1485,2024-06-23,Home Appliances,Vacuum Cleaner,51,North,1,24712,24712
+1486,2024-04-28,Clothing,Jeans,57,South,3,1030,3090
+1487,2024-04-01,Home Appliances,Refrigerator,45,East,1,15977,15977
+1488,2024-03-21,Electronics,Tablet,21,North,5,47757,238785
+1489,2024-03-30,Home Appliances,Air Fryer,36,North,4,7226,28904
+1490,2024-04-07,Home Appliances,Washing Machine,39,South,3,32117,96351
+1491,2024-04-02,Home Appliances,Washing Machine,22,South,1,13723,13723
+1492,2024-02-21,Electronics,Smartwatch,35,North,5,23942,119710
+1493,2024-06-04,Electronics,Laptop,20,West,4,8024,32096
+1494,2024-05-14,Home Appliances,Refrigerator,40,East,3,47345,142035
+1495,2024-04-25,Electronics,Power Bank,22,East,1,17471,17471
+1496,2024-01-06,Electronics,Smartphone,46,South,1,19601,19601
+1497,2024-03-18,Home Appliances,Microwave,27,West,1,36996,36996
+1498,2024-05-27,Electronics,Headphones,52,North,1,58006,58006
+1499,2024-01-20,Clothing,T-shirt,23,South,5,2223,11115
+1500,2024-01-04,Clothing,T-shirt,23,West,5,1054,5270

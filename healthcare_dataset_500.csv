@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,City,BMI,Blood_Pressure,Glucose_Level,Diagnosis
+5001,53,Female,Chennai,28.77,99,173,Asthma
+5002,45,Female,Chennai,22.73,104,159,Heart Disease
+5003,51,Female,Bangalore,33.89,147,133,Heart Disease
+5004,60,Female,Mumbai,25.07,117,153,Heart Disease
+5005,41,Male,Chennai,23.98,107,135,Heart Disease
+5006,77,Male,Chennai,22.25,120,123,Asthma
+5007,72,Female,Kolkata,23.23,103,111,Hypertension
+5008,78,Female,Bangalore,19.72,146,156,Diabetes
+5009,41,Male,Hyderabad,19.77,132,166,Healthy
+5010,34,Female,Bangalore,26.05,128,90,Diabetes
+5011,35,Female,Delhi,24.22,156,120,Hypertension
+5012,60,Female,Chennai,24.32,129,182,Healthy
+5013,51,Female,Kolkata,18.53,112,192,Diabetes
+5014,46,Male,Hyderabad,31.79,115,197,Asthma
+5015,75,Female,Hyderabad,32.7,158,126,Healthy
+5016,20,Male,Kolkata,26.0,137,152,Asthma
+5017,57,Male,Delhi,21.19,134,121,Heart Disease
+5018,19,Male,Mumbai,30.77,97,196,Heart Disease
+5019,24,Female,Delhi,29.37,160,147,Diabetes
+5020,65,Male,Mumbai,30.53,148,108,Healthy
+5021,29,Female,Mumbai,32.63,137,103,Asthma
+5022,39,Male,Delhi,31.99,129,183,Hypertension
+5023,80,Female,Chennai,25.5,119,122,Healthy
+5024,29,Female,Delhi,31.0,144,88,Healthy
+5025,62,Female,Delhi,26.79,123,95,Heart Disease
+5026,46,Female,Hyderabad,26.0,130,99,Healthy
+5027,20,Male,Delhi,26.93,115,137,Healthy
+5028,29,Male,Kolkata,28.65,158,161,Healthy
+5029,74,Male,Bangalore,33.99,132,125,Heart Disease
+5030,55,Male,Kolkata,34.99,159,159,Healthy
+5031,42,Male,Delhi,28.72,133,193,Asthma
+5032,63,Male,Bangalore,19.22,94,111,Heart Disease
+5033,28,Male,Chennai,21.36,147,139,Hypertension
+5034,45,Female,Bangalore,27.66,120,161,Heart Disease
+5035,27,Male,Bangalore,23.18,106,172,Heart Disease
+5036,21,Female,Hyderabad,31.35,153,139,Hypertension
+5037,44,Male,Mumbai,21.56,155,104,Healthy
+5038,80,Male,Chennai,25.27,153,97,Heart Disease
+5039,31,Male,Delhi,32.63,103,78,Heart Disease
+5040,57,Female,Chennai,22.39,125,78,Diabetes
+5041,33,Female,Hyderabad,26.4,97,104,Hypertension
+5042,64,Female,Hyderabad,20.51,92,149,Healthy
+5043,23,Female,Hyderabad,29.85,109,109,Diabetes
+5044,40,Female,Bangalore,21.75,119,172,Heart Disease
+5045,58,Male,Mumbai,30.35,141,98,Asthma
+5046,61,Female,Chennai,27.82,90,160,Hypertension
+5047,74,Female,Mumbai,30.88,138,140,Hypertension
+5048,46,Female,Delhi,26.02,120,193,Diabetes
+5049,22,Female,Chennai,20.34,102,85,Hypertension
+5050,68,Female,Bangalore,25.0,142,77,Diabetes
+5051,63,Male,Hyderabad,32.03,141,171,Hypertension
+5052,28,Female,Kolkata,34.08,123,104,Diabetes
+5053,25,Male,Kolkata,33.14,160,118,Asthma
+5054,20,Male,Mumbai,20.84,104,196,Hypertension
+5055,56,Female,Bangalore,23.39,139,155,Asthma
+5056,65,Male,Mumbai,34.99,134,164,Healthy
+5057,22,Female,Kolkata,18.52,106,185,Hypertension
+5058,37,Female,Mumbai,27.45,134,177,Healthy
+5059,74,Male,Chennai,26.16,114,103,Diabetes
+5060,44,Female,Mumbai,18.57,93,125,Diabetes
+5061,65,Female,Chennai,31.04,151,101,Asthma
+5062,45,Female,Hyderabad,27.78,112,134,Healthy
+5063,74,Female,Kolkata,31.99,97,125,Diabetes
+5064,25,Female,Delhi,21.39,106,95,Hypertension
+5065,18,Female,Bangalore,20.58,131,112,Asthma
+5066,34,Female,Delhi,30.42,124,199,Hypertension
+5067,21,Male,Mumbai,22.79,103,155,Healthy
+5068,29,Male,Mumbai,22.41,112,198,Hypertension
+5069,50,Female,Chennai,27.69,131,132,Heart Disease
+5070,59,Male,Mumbai,33.45,134,198,Heart Disease
+5071,42,Male,Hyderabad,25.17,110,131,Hypertension
+5072,46,Female,Delhi,23.24,148,142,Heart Disease
+5073,36,Female,Mumbai,26.54,127,148,Asthma
+5074,50,Female,Delhi,29.53,113,174,Heart Disease
+5075,27,Male,Delhi,29.74,114,161,Asthma
+5076,26,Female,Chennai,31.14,98,95,Hypertension
+5077,56,Female,Kolkata,30.18,97,158,Diabetes
+5078,65,Male,Kolkata,20.43,153,72,Diabetes
+5079,19,Female,Kolkata,32.89,93,197,Asthma
+5080,54,Female,Mumbai,25.49,92,87,Heart Disease
+5081,38,Female,Hyderabad,26.52,107,123,Diabetes
+5082,75,Male,Delhi,18.62,154,179,Diabetes
+5083,20,Male,Delhi,30.56,132,78,Heart Disease
+5084,74,Female,Delhi,19.58,125,89,Healthy
+5085,70,Female,Kolkata,25.61,139,129,Heart Disease
+5086,56,Female,Chennai,31.52,158,75,Healthy
+5087,62,Female,Chennai,19.06,136,148,Heart Disease
+5088,66,Female,Hyderabad,23.34,111,111,Asthma
+5089,31,Female,Chennai,26.81,145,124,Diabetes
+5090,71,Female,Delhi,31.31,92,111,Diabetes
+5091,40,Male,Mumbai,28.86,120,145,Heart Disease
+5092,53,Male,Bangalore,26.65,147,153,Heart Disease
+5093,52,Female,Delhi,21.39,148,150,Asthma
+5094,41,Male,Mumbai,24.15,118,110,Diabetes
+5095,27,Male,Mumbai,23.0,94,159,Asthma
+5096,26,Male,Kolkata,30.26,123,195,Asthma
+5097,19,Male,Kolkata,32.09,139,146,Hypertension
+5098,34,Female,Chennai,31.51,143,194,Heart Disease
+5099,70,Female,Kolkata,27.0,112,190,Heart Disease
+5100,68,Female,Hyderabad,31.03,94,163,Asthma
+5101,34,Female,Delhi,23.46,154,191,Hypertension
+5102,49,Male,Bangalore,24.44,103,105,Heart Disease
+5103,59,Male,Kolkata,26.88,152,181,Healthy
+5104,34,Male,Mumbai,26.45,160,155,Healthy
+5105,54,Female,Delhi,24.32,126,187,Diabetes
+5106,42,Male,Bangalore,30.67,133,122,Diabetes
+5107,30,Female,Bangalore,28.75,156,164,Diabetes
+5108,38,Female,Chennai,21.56,127,81,Asthma
+5109,73,Female,Mumbai,19.96,140,182,Diabetes
+5110,43,Male,Bangalore,30.6,150,142,Diabetes
+5111,63,Female,Kolkata,23.07,142,151,Hypertension
+5112,68,Female,Bangalore,19.31,113,168,Diabetes
+5113,59,Male,Kolkata,25.8,142,136,Healthy
+5114,33,Male,Hyderabad,30.61,118,95,Heart Disease
+5115,61,Female,Delhi,27.95,160,120,Heart Disease
+5116,44,Female,Chennai,26.48,156,157,Asthma
+5117,55,Male,Delhi,26.39,124,197,Asthma
+5118,18,Female,Kolkata,18.43,92,157,Hypertension
+5119,72,Female,Bangalore,31.92,115,77,Hypertension
+5120,68,Male,Delhi,20.43,135,88,Diabetes
+5121,35,Male,Delhi,22.16,121,76,Healthy
+5122,68,Male,Delhi,26.95,157,105,Diabetes
+5123,22,Male,Kolkata,19.03,122,128,Asthma
+5124,20,Female,Chennai,28.43,124,84,Diabetes
+5125,44,Male,Mumbai,27.61,149,173,Asthma
+5126,75,Female,Mumbai,34.11,156,89,Heart Disease
+5127,67,Male,Bangalore,26.16,157,166,Heart Disease
+5128,63,Male,Bangalore,23.35,143,96,Hypertension
+5129,37,Female,Bangalore,31.53,118,196,Asthma
+5130,23,Female,Kolkata,26.89,128,74,Asthma
+5131,29,Female,Bangalore,20.86,141,171,Hypertension
+5132,47,Male,Kolkata,27.37,104,138,Healthy
+5133,43,Female,Hyderabad,24.94,138,199,Healthy
+5134,48,Male,Delhi,26.95,126,199,Diabetes
+5135,31,Female,Kolkata,23.94,93,98,Asthma
+5136,18,Female,Chennai,29.49,136,143,Diabetes
+5137,79,Female,Mumbai,24.73,111,92,Asthma
+5138,60,Male,Hyderabad,31.86,100,166,Healthy
+5139,78,Female,Delhi,34.5,128,189,Heart Disease
+5140,25,Male,Hyderabad,28.09,109,151,Hypertension
+5141,55,Male,Mumbai,24.36,131,102,Asthma
+5142,74,Female,Chennai,28.01,147,194,Heart Disease
+5143,51,Female,Bangalore,32.2,112,127,Diabetes
+5144,40,Female,Kolkata,29.96,147,102,Heart Disease
+5145,54,Male,Chennai,20.99,112,104,Heart Disease
+5146,77,Male,Hyderabad,25.43,114,161,Heart Disease
+5147,68,Male,Delhi,31.33,113,146,Heart Disease
+5148,76,Female,Bangalore,18.48,135,199,Hypertension
+5149,52,Male,Bangalore,32.98,123,102,Heart Disease
+5150,66,Female,Mumbai,20.51,151,172,Healthy
+5151,26,Male,Chennai,24.08,109,182,Healthy
+5152,61,Male,Kolkata,18.19,135,92,Healthy
+5153,75,Male,Kolkata,34.89,153,133,Heart Disease
+5154,67,Female,Mumbai,19.43,95,176,Heart Disease
+5155,66,Female,Hyderabad,33.73,94,133,Asthma
+5156,70,Male,Kolkata,29.0,92,199,Heart Disease
+5157,67,Male,Chennai,28.61,157,128,Asthma
+5158,69,Female,Kolkata,31.67,148,91,Asthma
+5159,61,Female,Mumbai,23.66,116,145,Hypertension
+5160,39,Female,Kolkata,25.16,91,181,Diabetes
+5161,80,Female,Bangalore,34.94,147,164,Diabetes
+5162,64,Male,Kolkata,23.31,128,95,Heart Disease
+5163,77,Female,Bangalore,21.98,150,194,Asthma
+5164,26,Male,Kolkata,22.47,118,89,Diabetes
+5165,28,Male,Chennai,33.25,145,171,Hypertension
+5166,60,Female,Kolkata,28.54,114,123,Asthma
+5167,71,Male,Mumbai,26.96,115,128,Asthma
+5168,24,Male,Delhi,25.56,103,144,Healthy
+5169,71,Female,Kolkata,34.29,94,73,Healthy
+5170,65,Female,Hyderabad,23.02,156,180,Healthy
+5171,52,Female,Delhi,20.74,98,123,Diabetes
+5172,77,Female,Kolkata,19.05,141,162,Hypertension
+5173,46,Male,Chennai,25.95,117,140,Asthma
+5174,63,Male,Hyderabad,23.6,91,195,Heart Disease
+5175,26,Male,Hyderabad,32.58,116,173,Diabetes
+5176,61,Male,Mumbai,25.05,124,138,Heart Disease
+5177,57,Male,Hyderabad,24.15,146,86,Diabetes
+5178,52,Male,Delhi,26.58,91,163,Heart Disease
+5179,36,Male,Mumbai,27.56,91,100,Asthma
+5180,78,Female,Chennai,19.79,149,153,Hypertension
+5181,32,Male,Hyderabad,19.5,148,174,Heart Disease
+5182,27,Female,Bangalore,24.67,95,98,Asthma
+5183,63,Female,Delhi,34.04,136,166,Heart Disease
+5184,60,Male,Chennai,33.23,112,148,Heart Disease
+5185,21,Male,Hyderabad,18.9,144,134,Diabetes
+5186,30,Female,Chennai,18.56,119,93,Heart Disease
+5187,21,Male,Delhi,31.27,124,92,Diabetes
+5188,77,Female,Kolkata,18.22,139,169,Heart Disease
+5189,23,Female,Hyderabad,29.7,143,182,Hypertension
+5190,66,Female,Bangalore,21.58,150,119,Healthy
+5191,74,Male,Mumbai,29.22,102,92,Heart Disease
+5192,75,Female,Bangalore,20.05,137,168,Diabetes
+5193,43,Female,Hyderabad,19.62,145,78,Heart Disease
+5194,77,Female,Bangalore,22.91,121,127,Diabetes
+5195,54,Female,Mumbai,20.75,146,193,Hypertension
+5196,41,Female,Mumbai,28.15,151,72,Heart Disease
+5197,77,Female,Bangalore,19.62,95,118,Healthy
+5198,49,Male,Hyderabad,28.83,148,97,Hypertension
+5199,43,Female,Bangalore,18.89,118,97,Healthy
+5200,77,Male,Chennai,24.73,141,82,Asthma
+5201,67,Male,Kolkata,20.3,92,176,Asthma
+5202,25,Male,Kolkata,19.65,128,199,Hypertension
+5203,56,Male,Chennai,21.84,105,97,Diabetes
+5204,80,Male,Bangalore,32.97,110,84,Asthma
+5205,23,Female,Kolkata,21.04,156,197,Diabetes
+5206,76,Female,Delhi,31.16,98,136,Hypertension
+5207,66,Female,Hyderabad,22.56,113,199,Hypertension
+5208,38,Male,Delhi,31.52,143,191,Heart Disease
+5209,20,Female,Kolkata,21.4,154,186,Hypertension
+5210,30,Male,Hyderabad,27.75,117,75,Healthy
+5211,20,Male,Kolkata,26.85,149,188,Heart Disease
+5212,80,Male,Chennai,21.14,114,117,Asthma
+5213,57,Male,Chennai,34.02,149,71,Hypertension
+5214,50,Male,Mumbai,25.89,143,117,Asthma
+5215,59,Male,Delhi,22.15,160,194,Heart Disease
+5216,60,Male,Chennai,26.22,111,77,Diabetes
+5217,18,Female,Bangalore,29.17,160,180,Hypertension
+5218,23,Male,Bangalore,24.77,160,109,Asthma
+5219,28,Female,Hyderabad,33.72,116,96,Hypertension
+5220,61,Female,Chennai,24.42,125,190,Diabetes
+5221,74,Male,Bangalore,25.41,113,180,Diabetes
+5222,78,Female,Kolkata,24.54,151,153,Diabetes
+5223,70,Female,Mumbai,23.13,127,101,Heart Disease
+5224,37,Male,Chennai,21.49,150,144,Heart Disease
+5225,22,Male,Chennai,30.48,92,115,Asthma
+5226,43,Female,Bangalore,22.75,160,79,Hypertension
+5227,27,Female,Mumbai,32.55,110,175,Asthma
+5228,33,Female,Delhi,28.08,112,145,Heart Disease
+5229,75,Male,Hyderabad,29.61,123,112,Hypertension
+5230,36,Male,Mumbai,21.54,160,199,Diabetes
+5231,28,Female,Kolkata,26.21,124,171,Asthma
+5232,66,Female,Bangalore,31.28,132,177,Diabetes
+5233,66,Female,Kolkata,20.57,154,128,Diabetes
+5234,76,Male,Chennai,23.4,95,91,Hypertension
+5235,29,Female,Kolkata,33.46,96,128,Healthy
+5236,69,Male,Hyderabad,32.87,103,166,Healthy
+5237,18,Female,Kolkata,28.92,134,127,Healthy
+5238,61,Female,Hyderabad,34.69,159,127,Diabetes
+5239,77,Male,Bangalore,24.61,92,172,Healthy
+5240,71,Female,Bangalore,25.37,105,82,Heart Disease
+5241,29,Male,Chennai,27.35,156,155,Heart Disease
+5242,55,Female,Kolkata,31.27,100,103,Heart Disease
+5243,40,Male,Hyderabad,34.24,113,126,Asthma
+5244,34,Male,Delhi,24.68,98,198,Heart Disease
+5245,64,Female,Kolkata,28.32,90,171,Hypertension
+5246,20,Female,Hyderabad,26.68,109,78,Heart Disease
+5247,33,Male,Bangalore,20.6,107,143,Hypertension
+5248,68,Female,Chennai,19.62,110,74,Healthy
+5249,28,Male,Hyderabad,24.54,95,147,Hypertension
+5250,41,Male,Kolkata,25.33,137,194,Heart Disease
+5251,28,Male,Hyderabad,30.69,159,187,Hypertension
+5252,26,Female,Mumbai,26.67,95,195,Healthy
+5253,23,Female,Chennai,24.78,96,168,Hypertension
+5254,26,Male,Kolkata,21.51,144,107,Hypertension
+5255,40,Male,Delhi,22.3,102,127,Asthma
+5256,58,Male,Mumbai,33.27,115,102,Heart Disease
+5257,29,Male,Mumbai,28.1,107,71,Healthy
+5258,69,Female,Mumbai,30.81,141,99,Asthma
+5259,38,Male,Kolkata,22.78,104,85,Hypertension
+5260,19,Female,Hyderabad,32.13,125,114,Asthma
+5261,67,Female,Hyderabad,31.21,99,127,Hypertension
+5262,69,Male,Bangalore,34.75,135,200,Asthma
+5263,51,Female,Hyderabad,24.85,133,86,Asthma
+5264,59,Male,Chennai,24.39,139,70,Hypertension
+5265,33,Female,Kolkata,23.48,98,114,Heart Disease
+5266,32,Female,Delhi,32.88,148,130,Diabetes
+5267,28,Female,Mumbai,34.89,94,173,Hypertension
+5268,66,Male,Hyderabad,30.12,99,136,Hypertension
+5269,33,Male,Bangalore,26.84,116,108,Diabetes
+5270,41,Female,Chennai,28.57,145,195,Asthma
+5271,47,Female,Bangalore,21.17,135,134,Healthy
+5272,31,Female,Hyderabad,32.74,99,136,Healthy
+5273,72,Female,Chennai,19.62,129,181,Asthma
+5274,58,Male,Hyderabad,30.14,141,84,Hypertension
+5275,31,Male,Bangalore,24.45,91,168,Diabetes
+5276,56,Male,Bangalore,19.68,110,98,Hypertension
+5277,50,Female,Hyderabad,19.78,124,130,Asthma
+5278,39,Female,Kolkata,28.37,127,83,Asthma
+5279,72,Male,Chennai,21.36,160,93,Healthy
+5280,72,Male,Hyderabad,25.32,155,135,Hypertension
+5281,67,Female,Chennai,32.59,157,102,Asthma
+5282,31,Male,Hyderabad,24.95,131,188,Diabetes
+5283,30,Female,Kolkata,31.46,154,155,Diabetes
+5284,39,Female,Bangalore,21.74,153,179,Hypertension
+5285,75,Male,Mumbai,33.07,128,180,Asthma
+5286,22,Male,Mumbai,19.0,142,102,Healthy
+5287,74,Male,Mumbai,33.77,150,98,Diabetes
+5288,30,Female,Chennai,20.3,112,94,Diabetes
+5289,31,Female,Chennai,30.43,114,188,Heart Disease
+5290,32,Male,Mumbai,20.45,109,77,Diabetes
+5291,74,Male,Chennai,18.94,109,157,Hypertension
+5292,36,Female,Mumbai,20.37,159,195,Healthy
+5293,65,Male,Hyderabad,20.16,102,175,Heart Disease
+5294,63,Female,Delhi,27.18,114,177,Hypertension
+5295,34,Male,Mumbai,29.14,135,153,Healthy
+5296,28,Female,Delhi,21.13,121,97,Healthy
+5297,36,Female,Chennai,19.29,115,100,Healthy
+5298,80,Male,Delhi,34.19,157,118,Asthma
+5299,76,Male,Bangalore,26.19,128,197,Asthma
+5300,36,Female,Bangalore,21.5,93,135,Diabetes
+5301,61,Female,Bangalore,26.88,148,166,Hypertension
+5302,23,Male,Mumbai,26.47,97,70,Healthy
+5303,42,Female,Delhi,26.92,115,190,Asthma
+5304,28,Male,Kolkata,25.24,95,109,Heart Disease
+5305,38,Male,Mumbai,22.15,126,126,Diabetes
+5306,55,Male,Mumbai,25.33,92,157,Healthy
+5307,35,Female,Kolkata,32.03,90,75,Hypertension
+5308,19,Male,Kolkata,21.32,113,115,Hypertension
+5309,61,Male,Mumbai,25.73,135,169,Hypertension
+5310,50,Male,Bangalore,34.91,156,188,Asthma
+5311,72,Male,Delhi,27.59,139,78,Hypertension
+5312,40,Male,Hyderabad,34.11,138,158,Asthma
+5313,34,Male,Chennai,21.74,137,119,Heart Disease
+5314,54,Female,Chennai,19.48,155,159,Healthy
+5315,32,Female,Delhi,27.61,108,112,Heart Disease
+5316,23,Male,Delhi,30.63,120,127,Healthy
+5317,47,Female,Hyderabad,18.75,126,127,Hypertension
+5318,46,Male,Mumbai,31.73,160,134,Heart Disease
+5319,38,Male,Kolkata,31.32,147,82,Diabetes
+5320,18,Female,Delhi,25.55,136,136,Hypertension
+5321,63,Female,Kolkata,26.88,97,107,Heart Disease
+5322,25,Female,Kolkata,34.58,94,135,Heart Disease
+5323,53,Female,Chennai,33.73,107,83,Heart Disease
+5324,70,Male,Bangalore,22.55,116,198,Heart Disease
+5325,66,Female,Hyderabad,26.41,120,176,Asthma
+5326,44,Male,Delhi,30.79,108,90,Diabetes
+5327,32,Female,Chennai,19.47,131,116,Hypertension
+5328,24,Female,Bangalore,33.32,146,138,Hypertension
+5329,55,Male,Mumbai,21.57,111,113,Heart Disease
+5330,71,Female,Mumbai,27.96,155,101,Healthy
+5331,36,Male,Delhi,31.45,120,164,Diabetes
+5332,59,Male,Kolkata,20.34,104,134,Diabetes
+5333,48,Male,Bangalore,29.91,147,77,Asthma
+5334,58,Male,Hyderabad,31.25,103,91,Hypertension
+5335,27,Female,Kolkata,34.7,112,107,Asthma
+5336,50,Female,Chennai,21.74,120,175,Hypertension
+5337,18,Female,Hyderabad,33.09,155,133,Diabetes
+5338,44,Male,Bangalore,21.41,143,126,Healthy
+5339,35,Male,Mumbai,20.16,149,103,Heart Disease
+5340,35,Female,Delhi,22.63,152,112,Asthma
+5341,31,Male,Bangalore,34.74,102,119,Asthma
+5342,31,Female,Chennai,30.13,103,108,Heart Disease
+5343,60,Female,Hyderabad,32.12,126,151,Hypertension
+5344,64,Female,Delhi,34.07,99,122,Healthy
+5345,69,Female,Mumbai,27.89,99,71,Heart Disease
+5346,24,Male,Chennai,32.33,127,75,Hypertension
+5347,33,Male,Kolkata,33.94,157,141,Healthy
+5348,38,Female,Mumbai,23.83,116,157,Healthy
+5349,47,Female,Delhi,23.44,115,195,Heart Disease
+5350,62,Female,Hyderabad,31.53,108,187,Hypertension
+5351,45,Female,Hyderabad,29.68,93,168,Heart Disease
+5352,27,Male,Bangalore,23.84,128,129,Healthy
+5353,65,Female,Delhi,25.74,136,133,Heart Disease
+5354,37,Male,Chennai,30.16,114,147,Healthy
+5355,45,Male,Mumbai,24.66,148,149,Heart Disease
+5356,73,Male,Chennai,27.45,138,158,Healthy
+5357,44,Male,Bangalore,21.65,121,167,Hypertension
+5358,54,Male,Hyderabad,23.88,134,141,Asthma
+5359,34,Female,Kolkata,25.61,126,196,Asthma
+5360,46,Male,Kolkata,26.8,156,119,Heart Disease
+5361,80,Male,Mumbai,30.11,105,180,Healthy
+5362,37,Female,Hyderabad,19.16,98,119,Diabetes
+5363,69,Male,Chennai,28.58,105,82,Asthma
+5364,77,Male,Hyderabad,19.16,143,187,Healthy
+5365,67,Female,Hyderabad,24.15,156,83,Healthy
+5366,57,Male,Hyderabad,22.05,118,126,Heart Disease
+5367,57,Female,Bangalore,31.25,96,125,Asthma
+5368,45,Female,Hyderabad,33.14,152,133,Heart Disease
+5369,52,Female,Chennai,24.94,110,186,Diabetes
+5370,53,Female,Hyderabad,29.25,101,165,Hypertension
+5371,40,Male,Delhi,30.87,114,197,Diabetes
+5372,19,Male,Chennai,31.77,96,175,Diabetes
+5373,22,Male,Hyderabad,19.18,91,135,Healthy
+5374,20,Male,Delhi,33.93,127,172,Diabetes
+5375,18,Male,Bangalore,26.57,111,93,Heart Disease
+5376,60,Female,Kolkata,23.05,156,196,Healthy
+5377,50,Female,Delhi,25.16,126,96,Healthy
+5378,29,Male,Bangalore,30.64,101,96,Diabetes
+5379,56,Male,Bangalore,32.19,128,92,Diabetes
+5380,21,Female,Kolkata,28.69,118,83,Diabetes
+5381,55,Female,Delhi,29.69,117,139,Heart Disease
+5382,74,Female,Chennai,18.69,90,124,Healthy
+5383,54,Male,Kolkata,20.62,122,137,Healthy
+5384,47,Male,Mumbai,34.5,133,125,Healthy
+5385,27,Male,Bangalore,29.82,109,76,Diabetes
+5386,18,Male,Delhi,19.75,113,138,Heart Disease
+5387,64,Male,Hyderabad,32.1,135,174,Hypertension
+5388,80,Male,Chennai,28.58,127,171,Asthma
+5389,56,Female,Mumbai,21.75,108,188,Diabetes
+5390,69,Male,Hyderabad,21.2,144,74,Diabetes
+5391,35,Female,Kolkata,26.04,105,147,Asthma
+5392,69,Male,Bangalore,29.56,146,176,Diabetes
+5393,42,Male,Kolkata,25.09,146,138,Hypertension
+5394,23,Male,Kolkata,30.89,94,199,Asthma
+5395,74,Female,Chennai,32.88,105,141,Hypertension
+5396,41,Male,Bangalore,32.43,148,173,Hypertension
+5397,31,Male,Bangalore,32.71,152,153,Heart Disease
+5398,48,Female,Chennai,34.66,141,92,Hypertension
+5399,24,Female,Kolkata,30.64,126,101,Healthy
+5400,43,Male,Hyderabad,34.78,98,162,Asthma
+5401,43,Female,Delhi,19.22,96,92,Healthy
+5402,22,Female,Mumbai,24.29,115,132,Asthma
+5403,46,Male,Hyderabad,33.13,142,192,Healthy
+5404,75,Male,Bangalore,32.78,123,173,Hypertension
+5405,75,Female,Bangalore,19.56,99,116,Hypertension
+5406,61,Female,Delhi,34.06,108,150,Healthy
+5407,51,Female,Hyderabad,32.81,104,198,Diabetes
+5408,71,Male,Chennai,25.15,106,118,Asthma
+5409,45,Female,Chennai,32.29,157,121,Heart Disease
+5410,35,Male,Chennai,33.05,122,73,Diabetes
+5411,67,Female,Hyderabad,20.82,110,173,Healthy
+5412,34,Female,Hyderabad,20.47,93,141,Heart Disease
+5413,31,Female,Delhi,25.78,118,169,Diabetes
+5414,21,Female,Bangalore,27.51,91,121,Hypertension
+5415,72,Male,Chennai,25.93,124,84,Hypertension
+5416,58,Female,Delhi,23.75,145,99,Hypertension
+5417,76,Male,Kolkata,26.87,93,178,Heart Disease
+5418,31,Male,Mumbai,26.29,126,152,Asthma
+5419,28,Female,Chennai,32.71,146,169,Diabetes
+5420,55,Male,Kolkata,27.3,126,167,Diabetes
+5421,63,Male,Chennai,25.18,154,112,Heart Disease
+5422,23,Male,Chennai,32.83,153,190,Hypertension
+5423,29,Male,Hyderabad,25.24,137,178,Hypertension
+5424,29,Male,Bangalore,31.29,160,92,Hypertension
+5425,56,Male,Hyderabad,25.49,121,174,Diabetes
+5426,21,Female,Chennai,22.72,92,160,Heart Disease
+5427,36,Male,Delhi,22.94,91,143,Healthy
+5428,27,Male,Mumbai,31.45,99,118,Healthy
+5429,76,Female,Bangalore,27.37,123,181,Healthy
+5430,31,Male,Hyderabad,23.52,156,195,Healthy
+5431,71,Female,Chennai,21.24,150,139,Asthma
+5432,27,Male,Kolkata,30.92,132,136,Hypertension
+5433,42,Female,Kolkata,32.72,95,165,Diabetes
+5434,24,Female,Kolkata,34.69,127,85,Hypertension
+5435,70,Female,Hyderabad,27.15,121,197,Asthma
+5436,61,Female,Kolkata,30.28,119,177,Heart Disease
+5437,79,Male,Kolkata,19.53,127,90,Asthma
+5438,70,Male,Mumbai,20.61,108,110,Heart Disease
+5439,50,Female,Mumbai,22.93,155,100,Heart Disease
+5440,46,Female,Bangalore,23.95,126,123,Heart Disease
+5441,48,Male,Kolkata,23.83,156,200,Heart Disease
+5442,79,Male,Chennai,23.22,148,112,Hypertension
+5443,60,Female,Delhi,32.34,157,76,Asthma
+5444,40,Female,Mumbai,24.86,158,105,Healthy
+5445,52,Male,Mumbai,20.57,127,140,Diabetes
+5446,34,Female,Hyderabad,25.87,91,179,Asthma
+5447,65,Female,Bangalore,27.55,105,124,Asthma
+5448,25,Female,Delhi,33.24,115,124,Asthma
+5449,29,Female,Hyderabad,19.25,145,173,Heart Disease
+5450,57,Female,Mumbai,32.29,115,200,Healthy
+5451,59,Female,Delhi,28.59,108,109,Asthma
+5452,31,Female,Chennai,29.76,126,163,Heart Disease
+5453,27,Female,Chennai,32.43,132,106,Heart Disease
+5454,77,Male,Kolkata,30.83,119,146,Diabetes
+5455,45,Male,Bangalore,32.38,142,96,Heart Disease
+5456,61,Male,Mumbai,25.98,113,114,Asthma
+5457,36,Male,Mumbai,22.7,106,112,Heart Disease
+5458,72,Female,Mumbai,22.31,158,191,Healthy
+5459,31,Male,Hyderabad,31.54,148,143,Hypertension
+5460,30,Male,Chennai,31.48,112,199,Diabetes
+5461,43,Male,Mumbai,26.17,150,145,Hypertension
+5462,39,Male,Mumbai,18.89,94,104,Diabetes
+5463,65,Male,Chennai,30.01,133,200,Hypertension
+5464,27,Female,Hyderabad,28.98,97,82,Heart Disease
+5465,50,Female,Kolkata,21.85,110,181,Diabetes
+5466,21,Female,Chennai,27.68,98,170,Hypertension
+5467,37,Male,Hyderabad,33.59,131,132,Healthy
+5468,68,Female,Mumbai,26.96,98,71,Heart Disease
+5469,74,Male,Delhi,31.69,146,71,Diabetes
+5470,70,Male,Bangalore,21.16,156,128,Diabetes
+5471,26,Female,Mumbai,33.51,100,71,Healthy
+5472,57,Male,Bangalore,33.32,138,178,Hypertension
+5473,72,Female,Chennai,32.0,135,134,Asthma
+5474,54,Female,Delhi,30.93,111,134,Asthma
+5475,46,Male,Chennai,25.5,121,155,Asthma
+5476,31,Male,Hyderabad,33.28,141,132,Diabetes
+5477,22,Male,Delhi,30.12,136,139,Asthma
+5478,70,Female,Hyderabad,28.72,110,129,Diabetes
+5479,26,Male,Chennai,28.9,145,109,Heart Disease
+5480,38,Male,Kolkata,33.89,130,145,Diabetes
+5481,25,Female,Hyderabad,25.06,98,141,Diabetes
+5482,48,Male,Delhi,26.72,93,100,Heart Disease
+5483,80,Female,Delhi,31.44,91,99,Healthy
+5484,27,Male,Bangalore,23.85,94,181,Heart Disease
+5485,45,Male,Mumbai,22.61,112,102,Diabetes
+5486,66,Male,Mumbai,28.08,133,97,Hypertension
+5487,39,Male,Bangalore,19.04,144,133,Diabetes
+5488,53,Male,Mumbai,32.42,101,89,Diabetes
+5489,78,Female,Chennai,27.96,101,150,Hypertension
+5490,36,Female,Delhi,34.28,90,147,Hypertension
+5491,75,Male,Chennai,18.59,91,157,Healthy
+5492,58,Female,Hyderabad,19.92,103,147,Healthy
+5493,54,Male,Hyderabad,24.4,143,170,Healthy
+5494,42,Male,Hyderabad,23.63,145,149,Healthy
+5495,64,Female,Hyderabad,18.31,111,172,Asthma
+5496,50,Female,Hyderabad,33.56,155,132,Heart Disease
+5497,19,Male,Bangalore,25.23,157,78,Asthma
+5498,20,Female,Hyderabad,29.63,138,98,Asthma
+5499,76,Male,Hyderabad,23.98,128,92,Hypertension
+5500,30,Male,Kolkata,25.18,99,177,Hypertension

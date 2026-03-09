@@ -1,0 +1,501 @@
+Transaction_ID,Date,Category,Amount,Payment_Method,City
+8001,2024-07-22,Groceries,12257,Debit Card,Mumbai
+8002,2024-09-04,Shopping,8898,Net Banking,Mumbai
+8003,2024-03-26,Bills,18497,UPI,Mumbai
+8004,2024-09-21,Bills,2231,UPI,Lucknow
+8005,2024-07-11,Groceries,12383,Debit Card,Jaipur
+8006,2024-11-19,Food,11934,UPI,Pune
+8007,2024-08-09,Bills,19906,UPI,Lucknow
+8008,2024-07-24,Shopping,1966,UPI,Pune
+8009,2024-12-18,Food,8561,Credit Card,Bangalore
+8010,2024-03-19,Shopping,19330,Credit Card,Bangalore
+8011,2024-09-30,Food,15434,Net Banking,Pune
+8012,2024-10-13,Food,4512,Net Banking,Pune
+8013,2024-05-26,Bills,16115,Net Banking,Mumbai
+8014,2024-12-25,Travel,7055,Net Banking,Jaipur
+8015,2024-04-12,Food,16910,Debit Card,Delhi
+8016,2024-11-17,Shopping,3229,UPI,Mumbai
+8017,2024-06-07,Bills,8095,Debit Card,Delhi
+8018,2024-10-02,Travel,11948,UPI,Bangalore
+8019,2024-11-20,Entertainment,2925,Net Banking,Bangalore
+8020,2024-01-19,Groceries,7901,Net Banking,Mumbai
+8021,2024-03-27,Bills,14383,Net Banking,Lucknow
+8022,2024-06-09,Entertainment,13934,Net Banking,Jaipur
+8023,2024-09-10,Groceries,2921,UPI,Delhi
+8024,2024-08-13,Shopping,6447,Net Banking,Bangalore
+8025,2024-10-22,Bills,5828,Net Banking,Jaipur
+8026,2024-04-04,Travel,15425,Debit Card,Jaipur
+8027,2024-05-01,Food,11425,Debit Card,Pune
+8028,2024-01-14,Food,7860,Debit Card,Delhi
+8029,2024-02-17,Travel,5457,Net Banking,Delhi
+8030,2024-09-15,Travel,17446,Net Banking,Bangalore
+8031,2024-06-17,Food,1584,UPI,Mumbai
+8032,2024-07-01,Travel,14185,Credit Card,Mumbai
+8033,2024-02-04,Entertainment,12805,Debit Card,Bangalore
+8034,2024-05-27,Bills,15232,UPI,Pune
+8035,2024-01-18,Travel,1393,Net Banking,Mumbai
+8036,2024-12-02,Shopping,15862,UPI,Delhi
+8037,2024-07-19,Entertainment,1688,UPI,Bangalore
+8038,2024-12-15,Bills,18408,UPI,Jaipur
+8039,2024-01-12,Shopping,13591,Net Banking,Lucknow
+8040,2024-04-27,Food,11612,Credit Card,Bangalore
+8041,2024-06-25,Groceries,5522,Debit Card,Bangalore
+8042,2024-07-03,Groceries,12915,Credit Card,Delhi
+8043,2024-08-16,Food,18189,Net Banking,Pune
+8044,2024-03-08,Bills,844,Credit Card,Pune
+8045,2024-06-27,Bills,8425,Credit Card,Mumbai
+8046,2024-10-21,Food,13377,Credit Card,Bangalore
+8047,2024-02-08,Food,18843,Net Banking,Jaipur
+8048,2024-05-12,Entertainment,3426,Net Banking,Bangalore
+8049,2024-10-14,Groceries,6399,UPI,Delhi
+8050,2024-10-05,Shopping,1826,UPI,Jaipur
+8051,2024-07-15,Bills,19969,Debit Card,Bangalore
+8052,2024-02-08,Shopping,2609,UPI,Bangalore
+8053,2024-10-07,Groceries,12290,Credit Card,Jaipur
+8054,2024-04-21,Food,6478,Net Banking,Lucknow
+8055,2024-03-12,Entertainment,1770,Debit Card,Lucknow
+8056,2024-12-19,Entertainment,18506,Debit Card,Bangalore
+8057,2024-09-23,Travel,11410,UPI,Bangalore
+8058,2024-04-27,Entertainment,9672,Net Banking,Jaipur
+8059,2024-10-28,Bills,7283,Debit Card,Mumbai
+8060,2024-04-04,Groceries,897,Debit Card,Mumbai
+8061,2024-12-09,Shopping,4987,Debit Card,Jaipur
+8062,2024-07-01,Bills,3755,Credit Card,Bangalore
+8063,2024-03-19,Bills,8507,Debit Card,Bangalore
+8064,2024-03-17,Food,14454,UPI,Pune
+8065,2024-09-18,Groceries,14290,Debit Card,Mumbai
+8066,2024-11-13,Shopping,18644,Credit Card,Lucknow
+8067,2024-01-20,Travel,1718,UPI,Mumbai
+8068,2024-10-08,Shopping,12287,Debit Card,Delhi
+8069,2024-11-25,Shopping,8462,Credit Card,Delhi
+8070,2024-03-13,Entertainment,10175,Debit Card,Bangalore
+8071,2024-04-18,Travel,15865,UPI,Lucknow
+8072,2024-07-20,Travel,139,Credit Card,Pune
+8073,2024-10-08,Travel,18347,Debit Card,Jaipur
+8074,2024-01-10,Food,15253,Net Banking,Delhi
+8075,2024-05-29,Travel,13973,UPI,Mumbai
+8076,2024-08-03,Bills,3278,Credit Card,Delhi
+8077,2024-12-22,Entertainment,11727,Net Banking,Delhi
+8078,2024-07-24,Groceries,10765,Credit Card,Mumbai
+8079,2024-01-31,Entertainment,3717,UPI,Jaipur
+8080,2024-05-25,Shopping,13471,Net Banking,Lucknow
+8081,2024-03-26,Bills,5473,UPI,Bangalore
+8082,2024-01-01,Entertainment,16365,Net Banking,Pune
+8083,2024-12-06,Shopping,14919,Debit Card,Mumbai
+8084,2024-03-19,Food,9167,Debit Card,Pune
+8085,2024-04-02,Entertainment,5395,UPI,Bangalore
+8086,2024-08-10,Shopping,15254,UPI,Pune
+8087,2024-08-01,Travel,8055,Debit Card,Mumbai
+8088,2024-07-21,Groceries,5456,UPI,Lucknow
+8089,2024-04-22,Groceries,4690,UPI,Lucknow
+8090,2024-05-06,Travel,6700,UPI,Pune
+8091,2024-01-01,Shopping,19993,Credit Card,Lucknow
+8092,2024-02-06,Shopping,6356,Credit Card,Bangalore
+8093,2024-03-22,Travel,14699,Credit Card,Pune
+8094,2024-01-05,Shopping,18501,Credit Card,Pune
+8095,2024-03-04,Groceries,10706,Credit Card,Jaipur
+8096,2024-08-03,Bills,9604,Net Banking,Jaipur
+8097,2024-03-09,Groceries,2504,Net Banking,Delhi
+8098,2024-09-26,Travel,10084,Credit Card,Lucknow
+8099,2024-01-19,Entertainment,568,Debit Card,Jaipur
+8100,2024-01-20,Groceries,16668,UPI,Delhi
+8101,2024-12-09,Entertainment,7817,Net Banking,Delhi
+8102,2024-11-04,Travel,5375,Credit Card,Pune
+8103,2024-08-17,Bills,10132,Debit Card,Mumbai
+8104,2024-08-05,Shopping,13234,Debit Card,Delhi
+8105,2024-07-15,Entertainment,14795,Credit Card,Bangalore
+8106,2024-08-04,Entertainment,12402,UPI,Jaipur
+8107,2024-05-18,Food,3490,Credit Card,Bangalore
+8108,2024-02-04,Entertainment,3117,UPI,Bangalore
+8109,2024-06-16,Food,16209,Credit Card,Mumbai
+8110,2024-02-09,Groceries,17386,Credit Card,Lucknow
+8111,2024-04-22,Bills,8488,Debit Card,Pune
+8112,2024-06-15,Shopping,13531,Credit Card,Pune
+8113,2024-10-01,Entertainment,12831,UPI,Bangalore
+8114,2024-07-08,Bills,13829,Credit Card,Pune
+8115,2024-03-09,Bills,19512,UPI,Pune
+8116,2024-04-11,Shopping,10657,Net Banking,Jaipur
+8117,2024-04-11,Travel,15160,Credit Card,Mumbai
+8118,2024-05-14,Food,11767,Net Banking,Jaipur
+8119,2024-06-15,Groceries,15479,Credit Card,Pune
+8120,2024-03-30,Travel,957,Credit Card,Mumbai
+8121,2024-04-15,Travel,5565,UPI,Pune
+8122,2024-08-28,Travel,2748,Credit Card,Jaipur
+8123,2024-04-24,Bills,12824,Net Banking,Lucknow
+8124,2024-12-01,Entertainment,2650,Debit Card,Delhi
+8125,2024-06-29,Groceries,5360,Credit Card,Bangalore
+8126,2024-06-25,Entertainment,18083,Net Banking,Delhi
+8127,2024-12-08,Travel,2585,Debit Card,Lucknow
+8128,2024-06-03,Travel,15741,Net Banking,Lucknow
+8129,2024-06-08,Travel,13955,Credit Card,Bangalore
+8130,2024-06-22,Shopping,9380,Credit Card,Lucknow
+8131,2024-08-12,Groceries,17284,UPI,Mumbai
+8132,2024-03-22,Entertainment,898,UPI,Jaipur
+8133,2024-08-24,Bills,1271,Debit Card,Bangalore
+8134,2024-08-04,Shopping,1900,Credit Card,Bangalore
+8135,2024-10-10,Bills,15207,Credit Card,Jaipur
+8136,2024-09-11,Shopping,13158,Debit Card,Jaipur
+8137,2024-08-17,Entertainment,3837,Credit Card,Lucknow
+8138,2024-06-09,Food,7026,UPI,Mumbai
+8139,2024-10-29,Shopping,4369,Net Banking,Lucknow
+8140,2024-05-26,Shopping,17997,Debit Card,Lucknow
+8141,2024-05-09,Bills,14451,Debit Card,Jaipur
+8142,2024-02-17,Groceries,4992,Net Banking,Delhi
+8143,2024-08-23,Food,9167,UPI,Mumbai
+8144,2024-12-14,Bills,6769,Debit Card,Pune
+8145,2024-05-25,Food,18453,Debit Card,Bangalore
+8146,2024-06-04,Entertainment,2246,Net Banking,Mumbai
+8147,2024-04-07,Shopping,5640,Debit Card,Delhi
+8148,2024-01-27,Entertainment,7559,Debit Card,Bangalore
+8149,2024-06-09,Entertainment,584,Net Banking,Pune
+8150,2024-01-01,Bills,6903,Debit Card,Bangalore
+8151,2024-07-24,Food,11887,UPI,Delhi
+8152,2024-09-10,Food,18824,Credit Card,Pune
+8153,2024-08-07,Entertainment,8230,Net Banking,Lucknow
+8154,2024-05-21,Food,3707,UPI,Mumbai
+8155,2024-05-14,Entertainment,1266,UPI,Delhi
+8156,2024-12-10,Shopping,14756,UPI,Mumbai
+8157,2024-01-02,Travel,15335,Credit Card,Bangalore
+8158,2024-04-29,Entertainment,5047,Debit Card,Jaipur
+8159,2024-09-29,Bills,18289,Debit Card,Pune
+8160,2024-02-07,Bills,10883,Credit Card,Jaipur
+8161,2024-02-13,Shopping,11000,Net Banking,Bangalore
+8162,2024-09-16,Shopping,7547,Debit Card,Delhi
+8163,2024-11-28,Groceries,15089,UPI,Bangalore
+8164,2024-03-03,Travel,18343,Net Banking,Jaipur
+8165,2024-05-08,Travel,2380,Debit Card,Delhi
+8166,2024-11-18,Groceries,6945,Debit Card,Pune
+8167,2024-04-06,Travel,14464,UPI,Lucknow
+8168,2024-07-23,Shopping,462,Debit Card,Mumbai
+8169,2024-10-09,Shopping,16864,Debit Card,Bangalore
+8170,2024-01-06,Food,1069,Debit Card,Lucknow
+8171,2024-04-06,Food,11293,Credit Card,Mumbai
+8172,2024-11-30,Bills,16455,Debit Card,Mumbai
+8173,2024-11-06,Travel,12442,Debit Card,Lucknow
+8174,2024-05-15,Bills,9835,Credit Card,Bangalore
+8175,2024-11-23,Bills,16248,UPI,Jaipur
+8176,2024-07-28,Entertainment,2544,Debit Card,Lucknow
+8177,2024-11-08,Travel,14013,UPI,Bangalore
+8178,2024-01-28,Groceries,15037,Net Banking,Delhi
+8179,2024-08-10,Travel,15717,UPI,Mumbai
+8180,2024-01-08,Shopping,17621,Net Banking,Delhi
+8181,2024-12-01,Entertainment,6760,Debit Card,Pune
+8182,2024-09-24,Groceries,2871,Credit Card,Bangalore
+8183,2024-07-03,Groceries,4091,Net Banking,Delhi
+8184,2024-11-29,Entertainment,7543,Debit Card,Lucknow
+8185,2024-12-13,Bills,1175,Debit Card,Mumbai
+8186,2024-07-10,Entertainment,8846,Credit Card,Bangalore
+8187,2024-11-28,Groceries,2138,Credit Card,Bangalore
+8188,2024-02-22,Entertainment,3783,UPI,Jaipur
+8189,2024-05-13,Food,4047,UPI,Delhi
+8190,2024-06-03,Travel,13722,UPI,Bangalore
+8191,2024-07-16,Bills,15990,Net Banking,Pune
+8192,2024-05-08,Shopping,10319,Net Banking,Bangalore
+8193,2024-07-21,Bills,10824,UPI,Lucknow
+8194,2024-04-28,Food,6396,Credit Card,Jaipur
+8195,2024-07-19,Food,16747,Net Banking,Bangalore
+8196,2024-06-05,Shopping,12181,UPI,Mumbai
+8197,2024-04-12,Travel,17046,Net Banking,Jaipur
+8198,2024-07-31,Bills,5452,Net Banking,Jaipur
+8199,2024-01-27,Shopping,12139,Net Banking,Mumbai
+8200,2024-09-18,Travel,11074,UPI,Delhi
+8201,2024-04-03,Travel,17085,Net Banking,Lucknow
+8202,2024-05-20,Travel,5511,UPI,Bangalore
+8203,2024-08-27,Shopping,6783,Debit Card,Lucknow
+8204,2024-03-17,Groceries,18286,Debit Card,Bangalore
+8205,2024-11-08,Bills,18578,Debit Card,Jaipur
+8206,2024-11-18,Travel,13780,Debit Card,Mumbai
+8207,2024-09-10,Entertainment,13368,Credit Card,Lucknow
+8208,2024-06-02,Food,9636,UPI,Bangalore
+8209,2024-09-03,Groceries,19238,Credit Card,Bangalore
+8210,2024-07-28,Travel,19270,Debit Card,Pune
+8211,2024-12-28,Travel,10325,Credit Card,Lucknow
+8212,2024-04-22,Travel,13231,Credit Card,Lucknow
+8213,2024-12-20,Entertainment,15162,UPI,Jaipur
+8214,2024-03-05,Bills,7856,Net Banking,Mumbai
+8215,2024-03-30,Shopping,1219,Debit Card,Lucknow
+8216,2024-06-02,Travel,12486,Net Banking,Delhi
+8217,2024-02-12,Shopping,4319,Debit Card,Jaipur
+8218,2024-02-18,Travel,11177,Net Banking,Bangalore
+8219,2024-08-23,Bills,12302,Net Banking,Lucknow
+8220,2024-12-20,Travel,2482,Debit Card,Lucknow
+8221,2024-05-18,Travel,16590,Debit Card,Lucknow
+8222,2024-12-05,Food,7323,Debit Card,Pune
+8223,2024-02-18,Entertainment,10632,Debit Card,Jaipur
+8224,2024-12-22,Bills,12267,UPI,Lucknow
+8225,2024-05-16,Bills,8856,UPI,Delhi
+8226,2024-07-24,Entertainment,14352,Credit Card,Lucknow
+8227,2024-03-06,Entertainment,12904,Credit Card,Mumbai
+8228,2024-04-01,Entertainment,12397,Credit Card,Lucknow
+8229,2024-03-03,Groceries,15255,Net Banking,Mumbai
+8230,2024-12-08,Travel,2223,Net Banking,Delhi
+8231,2024-05-20,Entertainment,11128,Credit Card,Mumbai
+8232,2024-05-27,Food,19002,UPI,Bangalore
+8233,2024-11-07,Groceries,16647,Credit Card,Lucknow
+8234,2024-02-11,Food,5891,UPI,Delhi
+8235,2024-04-12,Shopping,16610,Debit Card,Mumbai
+8236,2024-04-04,Entertainment,18756,Debit Card,Mumbai
+8237,2024-01-30,Groceries,10724,Credit Card,Jaipur
+8238,2024-03-20,Travel,15620,Credit Card,Lucknow
+8239,2024-08-26,Travel,8059,UPI,Lucknow
+8240,2024-10-11,Shopping,15304,Credit Card,Mumbai
+8241,2024-11-09,Groceries,5640,Credit Card,Delhi
+8242,2024-03-11,Travel,560,UPI,Mumbai
+8243,2024-05-09,Bills,16113,Net Banking,Delhi
+8244,2024-11-20,Entertainment,5291,Net Banking,Delhi
+8245,2024-06-22,Groceries,13289,Credit Card,Pune
+8246,2024-12-02,Entertainment,9628,Net Banking,Mumbai
+8247,2024-10-06,Shopping,10829,Debit Card,Mumbai
+8248,2024-07-08,Travel,13921,Net Banking,Mumbai
+8249,2024-07-06,Groceries,19521,Net Banking,Pune
+8250,2024-12-02,Groceries,13506,Debit Card,Jaipur
+8251,2024-03-19,Groceries,4462,Debit Card,Pune
+8252,2024-02-24,Bills,2225,Credit Card,Mumbai
+8253,2024-06-20,Shopping,11425,UPI,Mumbai
+8254,2024-09-04,Bills,15221,Net Banking,Lucknow
+8255,2024-06-05,Entertainment,2820,Credit Card,Pune
+8256,2024-12-18,Travel,19783,Credit Card,Lucknow
+8257,2024-10-05,Food,1544,UPI,Lucknow
+8258,2024-04-05,Travel,15589,UPI,Bangalore
+8259,2024-05-25,Shopping,14944,UPI,Jaipur
+8260,2024-01-18,Bills,17076,Debit Card,Bangalore
+8261,2024-07-20,Food,2514,Debit Card,Pune
+8262,2024-12-14,Shopping,15086,Credit Card,Pune
+8263,2024-12-07,Bills,14090,UPI,Mumbai
+8264,2024-08-17,Food,2612,Net Banking,Delhi
+8265,2024-07-21,Food,11582,Credit Card,Mumbai
+8266,2024-05-07,Shopping,227,Debit Card,Mumbai
+8267,2024-01-04,Groceries,18254,Credit Card,Jaipur
+8268,2024-08-03,Bills,12057,Net Banking,Jaipur
+8269,2024-12-21,Bills,18514,UPI,Lucknow
+8270,2024-05-16,Entertainment,5975,UPI,Lucknow
+8271,2024-11-28,Groceries,1474,Debit Card,Jaipur
+8272,2024-12-20,Travel,17017,Credit Card,Bangalore
+8273,2024-10-22,Shopping,15368,UPI,Bangalore
+8274,2024-05-08,Food,8567,UPI,Jaipur
+8275,2024-06-08,Groceries,3300,UPI,Lucknow
+8276,2024-12-18,Groceries,12478,Debit Card,Mumbai
+8277,2024-06-09,Food,17747,Debit Card,Delhi
+8278,2024-08-14,Travel,17560,Credit Card,Lucknow
+8279,2024-04-08,Groceries,6864,UPI,Mumbai
+8280,2024-10-07,Groceries,2244,Net Banking,Delhi
+8281,2024-08-24,Entertainment,18679,Credit Card,Bangalore
+8282,2024-10-12,Food,6010,Net Banking,Bangalore
+8283,2024-11-02,Travel,1023,Net Banking,Delhi
+8284,2024-04-15,Entertainment,11205,Net Banking,Jaipur
+8285,2024-09-06,Groceries,10219,Debit Card,Delhi
+8286,2024-05-14,Entertainment,16026,Net Banking,Bangalore
+8287,2024-10-16,Entertainment,17940,Credit Card,Lucknow
+8288,2024-12-30,Bills,10641,Credit Card,Delhi
+8289,2024-12-08,Shopping,4126,Credit Card,Jaipur
+8290,2024-10-24,Groceries,208,Debit Card,Lucknow
+8291,2024-01-31,Entertainment,7591,Credit Card,Mumbai
+8292,2024-10-12,Travel,9295,UPI,Bangalore
+8293,2024-05-20,Entertainment,12812,Credit Card,Pune
+8294,2024-03-05,Shopping,18073,Debit Card,Pune
+8295,2024-02-23,Food,10308,UPI,Jaipur
+8296,2024-01-30,Groceries,17698,UPI,Bangalore
+8297,2024-02-08,Food,11370,UPI,Lucknow
+8298,2024-10-20,Shopping,13875,Debit Card,Delhi
+8299,2024-08-23,Food,9991,UPI,Lucknow
+8300,2024-11-14,Food,7965,Net Banking,Pune
+8301,2024-02-19,Entertainment,7612,Credit Card,Pune
+8302,2024-04-09,Shopping,3648,Net Banking,Mumbai
+8303,2024-06-16,Shopping,18421,Net Banking,Lucknow
+8304,2024-01-09,Entertainment,879,UPI,Delhi
+8305,2024-12-07,Travel,1666,Net Banking,Bangalore
+8306,2024-09-28,Travel,13932,UPI,Pune
+8307,2024-09-05,Shopping,4832,Net Banking,Lucknow
+8308,2024-02-29,Shopping,8675,Credit Card,Bangalore
+8309,2024-05-02,Shopping,14574,Credit Card,Jaipur
+8310,2024-07-14,Travel,12172,Credit Card,Jaipur
+8311,2024-09-25,Food,13238,Debit Card,Delhi
+8312,2024-11-22,Shopping,9322,Debit Card,Bangalore
+8313,2024-02-09,Entertainment,7927,Credit Card,Bangalore
+8314,2024-02-28,Entertainment,3144,Net Banking,Mumbai
+8315,2024-03-19,Food,1148,Debit Card,Mumbai
+8316,2024-09-02,Bills,9629,Net Banking,Jaipur
+8317,2024-10-22,Groceries,19641,Net Banking,Pune
+8318,2024-09-27,Entertainment,3742,Credit Card,Jaipur
+8319,2024-04-02,Groceries,14729,UPI,Mumbai
+8320,2024-01-20,Entertainment,11281,Credit Card,Pune
+8321,2024-04-01,Bills,18251,Credit Card,Delhi
+8322,2024-01-05,Groceries,1079,Debit Card,Mumbai
+8323,2024-02-18,Food,5431,UPI,Mumbai
+8324,2024-04-09,Shopping,8619,Credit Card,Jaipur
+8325,2024-04-26,Entertainment,540,UPI,Jaipur
+8326,2024-11-26,Shopping,15456,Debit Card,Mumbai
+8327,2024-11-10,Bills,17421,Credit Card,Pune
+8328,2024-07-24,Groceries,6539,UPI,Delhi
+8329,2024-10-03,Entertainment,4017,UPI,Delhi
+8330,2024-03-10,Shopping,3308,UPI,Mumbai
+8331,2024-11-27,Groceries,12514,UPI,Pune
+8332,2024-06-23,Groceries,15523,Debit Card,Jaipur
+8333,2024-05-12,Shopping,12637,Credit Card,Pune
+8334,2024-05-27,Entertainment,15865,UPI,Jaipur
+8335,2024-03-17,Food,14221,Debit Card,Mumbai
+8336,2024-03-22,Bills,615,Credit Card,Pune
+8337,2024-08-19,Bills,6520,UPI,Pune
+8338,2024-03-29,Groceries,7726,Debit Card,Bangalore
+8339,2024-06-28,Bills,12225,Credit Card,Bangalore
+8340,2024-08-22,Groceries,9358,Net Banking,Jaipur
+8341,2024-03-20,Shopping,7030,Net Banking,Jaipur
+8342,2024-07-02,Travel,2814,Credit Card,Mumbai
+8343,2024-02-15,Food,995,Credit Card,Bangalore
+8344,2024-03-17,Travel,7043,UPI,Delhi
+8345,2024-12-07,Shopping,7415,Debit Card,Jaipur
+8346,2024-04-13,Entertainment,4603,UPI,Pune
+8347,2024-08-03,Bills,14245,Credit Card,Lucknow
+8348,2024-05-12,Bills,632,Net Banking,Pune
+8349,2024-11-06,Entertainment,16294,Net Banking,Delhi
+8350,2024-12-12,Travel,16849,UPI,Mumbai
+8351,2024-06-27,Bills,4762,Credit Card,Jaipur
+8352,2024-02-08,Entertainment,18876,Debit Card,Lucknow
+8353,2024-02-13,Travel,19782,Debit Card,Pune
+8354,2024-06-13,Groceries,2771,Credit Card,Delhi
+8355,2024-08-08,Entertainment,3179,UPI,Bangalore
+8356,2024-02-27,Groceries,13886,Debit Card,Delhi
+8357,2024-01-20,Groceries,425,Credit Card,Jaipur
+8358,2024-05-07,Food,3195,Debit Card,Bangalore
+8359,2024-10-18,Food,18413,Net Banking,Lucknow
+8360,2024-12-21,Shopping,11315,UPI,Mumbai
+8361,2024-10-09,Groceries,7660,Credit Card,Delhi
+8362,2024-02-10,Entertainment,6636,UPI,Jaipur
+8363,2024-03-04,Entertainment,7060,Debit Card,Lucknow
+8364,2024-06-30,Shopping,6491,Net Banking,Bangalore
+8365,2024-11-19,Entertainment,4416,Credit Card,Mumbai
+8366,2024-07-10,Entertainment,13909,Net Banking,Lucknow
+8367,2024-09-17,Entertainment,7006,UPI,Jaipur
+8368,2024-05-21,Groceries,12709,Net Banking,Bangalore
+8369,2024-08-21,Travel,5456,UPI,Delhi
+8370,2024-11-27,Travel,16116,UPI,Delhi
+8371,2024-04-03,Groceries,16042,UPI,Delhi
+8372,2024-01-18,Groceries,14572,Debit Card,Lucknow
+8373,2024-09-29,Entertainment,12332,UPI,Pune
+8374,2024-07-06,Food,6802,Debit Card,Bangalore
+8375,2024-11-21,Bills,17350,Net Banking,Delhi
+8376,2024-04-13,Bills,6992,Net Banking,Jaipur
+8377,2024-05-23,Groceries,18004,Debit Card,Jaipur
+8378,2024-04-30,Groceries,2750,Debit Card,Pune
+8379,2024-02-08,Bills,13428,UPI,Pune
+8380,2024-06-14,Bills,5013,Credit Card,Jaipur
+8381,2024-01-31,Shopping,1491,Net Banking,Bangalore
+8382,2024-01-26,Groceries,10142,Credit Card,Bangalore
+8383,2024-12-20,Bills,1102,Net Banking,Lucknow
+8384,2024-03-01,Bills,18777,Credit Card,Pune
+8385,2024-03-15,Shopping,6201,Credit Card,Pune
+8386,2024-03-01,Food,7918,Debit Card,Lucknow
+8387,2024-03-21,Entertainment,19096,Net Banking,Mumbai
+8388,2024-02-05,Food,6130,UPI,Mumbai
+8389,2024-01-27,Food,13312,Credit Card,Delhi
+8390,2024-06-21,Bills,3326,Net Banking,Lucknow
+8391,2024-08-22,Food,9879,Net Banking,Jaipur
+8392,2024-07-24,Groceries,12674,UPI,Lucknow
+8393,2024-05-23,Bills,5021,UPI,Delhi
+8394,2024-08-08,Entertainment,7489,Net Banking,Lucknow
+8395,2024-02-08,Groceries,324,UPI,Jaipur
+8396,2024-04-14,Bills,10665,Debit Card,Jaipur
+8397,2024-11-10,Shopping,10582,Credit Card,Pune
+8398,2024-08-23,Food,18803,Net Banking,Delhi
+8399,2024-11-06,Travel,10250,Debit Card,Jaipur
+8400,2024-09-03,Entertainment,13681,Net Banking,Delhi
+8401,2024-09-08,Bills,10595,Debit Card,Delhi
+8402,2024-05-17,Travel,725,Net Banking,Mumbai
+8403,2024-11-30,Bills,12194,UPI,Pune
+8404,2024-11-10,Shopping,4692,Debit Card,Mumbai
+8405,2024-07-02,Entertainment,1562,Debit Card,Bangalore
+8406,2024-12-27,Travel,10396,Debit Card,Jaipur
+8407,2024-02-01,Entertainment,18940,Debit Card,Delhi
+8408,2024-09-02,Bills,10532,Credit Card,Pune
+8409,2024-10-11,Food,10272,Net Banking,Mumbai
+8410,2024-11-18,Entertainment,10458,Net Banking,Delhi
+8411,2024-02-07,Bills,6893,Net Banking,Pune
+8412,2024-09-18,Bills,3233,Credit Card,Pune
+8413,2024-09-29,Bills,12597,Net Banking,Pune
+8414,2024-10-31,Bills,7168,Debit Card,Bangalore
+8415,2024-06-04,Food,12128,Credit Card,Jaipur
+8416,2024-10-19,Shopping,1440,Debit Card,Pune
+8417,2024-03-08,Shopping,7883,Debit Card,Delhi
+8418,2024-02-10,Travel,8263,Debit Card,Pune
+8419,2024-05-04,Entertainment,8519,Credit Card,Delhi
+8420,2024-06-08,Shopping,11178,Debit Card,Mumbai
+8421,2024-02-09,Travel,12908,Credit Card,Mumbai
+8422,2024-09-11,Groceries,17221,UPI,Lucknow
+8423,2024-09-14,Entertainment,7998,Net Banking,Jaipur
+8424,2024-06-25,Entertainment,17384,Net Banking,Delhi
+8425,2024-01-23,Shopping,1582,Credit Card,Mumbai
+8426,2024-02-29,Groceries,3263,Credit Card,Jaipur
+8427,2024-09-14,Entertainment,19983,Net Banking,Delhi
+8428,2024-08-04,Bills,1772,UPI,Bangalore
+8429,2024-12-26,Groceries,14641,Credit Card,Bangalore
+8430,2024-12-15,Entertainment,16149,Net Banking,Mumbai
+8431,2024-07-08,Travel,6353,UPI,Bangalore
+8432,2024-04-20,Travel,3171,UPI,Lucknow
+8433,2024-07-09,Groceries,2262,Credit Card,Delhi
+8434,2024-05-28,Food,12688,UPI,Bangalore
+8435,2024-07-06,Entertainment,18944,Net Banking,Mumbai
+8436,2024-07-22,Groceries,16438,Debit Card,Jaipur
+8437,2024-10-01,Travel,5347,Debit Card,Mumbai
+8438,2024-04-22,Food,7907,Net Banking,Bangalore
+8439,2024-10-30,Shopping,13903,Debit Card,Mumbai
+8440,2024-01-02,Groceries,12195,Debit Card,Mumbai
+8441,2024-10-12,Food,9718,Credit Card,Lucknow
+8442,2024-02-21,Entertainment,13325,Debit Card,Lucknow
+8443,2024-01-15,Shopping,211,Net Banking,Lucknow
+8444,2024-08-19,Food,8550,UPI,Jaipur
+8445,2024-06-12,Entertainment,15662,UPI,Bangalore
+8446,2024-10-17,Groceries,6930,Debit Card,Jaipur
+8447,2024-11-09,Bills,3663,Credit Card,Jaipur
+8448,2024-08-31,Bills,19843,UPI,Delhi
+8449,2024-05-08,Food,7816,Credit Card,Jaipur
+8450,2024-07-13,Groceries,5933,Net Banking,Jaipur
+8451,2024-04-28,Entertainment,8632,Net Banking,Bangalore
+8452,2024-04-25,Shopping,8915,Debit Card,Lucknow
+8453,2024-01-25,Shopping,17870,Net Banking,Bangalore
+8454,2024-06-25,Bills,10797,Debit Card,Lucknow
+8455,2024-10-08,Entertainment,8777,Credit Card,Delhi
+8456,2024-10-02,Groceries,8015,UPI,Bangalore
+8457,2024-01-31,Groceries,11081,UPI,Bangalore
+8458,2024-10-12,Bills,1354,Credit Card,Delhi
+8459,2024-10-01,Food,19519,Credit Card,Delhi
+8460,2024-07-23,Travel,5117,Debit Card,Bangalore
+8461,2024-08-16,Shopping,7570,UPI,Mumbai
+8462,2024-07-08,Food,12936,Credit Card,Jaipur
+8463,2024-11-06,Food,5307,UPI,Pune
+8464,2024-12-06,Bills,9838,UPI,Delhi
+8465,2024-12-31,Bills,15905,UPI,Bangalore
+8466,2024-09-24,Shopping,13143,Credit Card,Pune
+8467,2024-04-21,Travel,14471,Debit Card,Pune
+8468,2024-06-18,Groceries,3371,Credit Card,Pune
+8469,2024-11-13,Shopping,4342,Net Banking,Jaipur
+8470,2024-10-21,Entertainment,4881,Net Banking,Pune
+8471,2024-01-14,Groceries,10914,UPI,Pune
+8472,2024-04-15,Shopping,10707,Credit Card,Mumbai
+8473,2024-09-08,Shopping,4395,UPI,Bangalore
+8474,2024-10-01,Food,19979,Net Banking,Jaipur
+8475,2024-01-13,Bills,2474,UPI,Mumbai
+8476,2024-07-15,Bills,16207,UPI,Jaipur
+8477,2024-04-15,Food,12868,Debit Card,Delhi
+8478,2024-02-08,Bills,16367,Credit Card,Jaipur
+8479,2024-10-14,Groceries,16132,Credit Card,Delhi
+8480,2024-11-02,Groceries,6040,Net Banking,Pune
+8481,2024-10-16,Groceries,6342,Debit Card,Delhi
+8482,2024-09-24,Shopping,14586,Debit Card,Delhi
+8483,2024-08-24,Entertainment,5163,Net Banking,Mumbai
+8484,2024-10-23,Shopping,11935,UPI,Mumbai
+8485,2024-01-12,Travel,7819,Credit Card,Mumbai
+8486,2024-09-11,Shopping,12330,UPI,Pune
+8487,2024-03-12,Food,9560,Credit Card,Pune
+8488,2024-03-24,Groceries,18739,Net Banking,Jaipur
+8489,2024-03-17,Travel,17186,UPI,Bangalore
+8490,2024-09-19,Bills,13266,Debit Card,Lucknow
+8491,2024-08-14,Bills,6687,Debit Card,Lucknow
+8492,2024-05-20,Food,17732,Net Banking,Jaipur
+8493,2024-11-25,Bills,1839,Debit Card,Delhi
+8494,2024-11-01,Bills,1432,Net Banking,Jaipur
+8495,2024-08-09,Groceries,19328,UPI,Delhi
+8496,2024-01-26,Bills,13770,Debit Card,Bangalore
+8497,2024-05-03,Food,2735,Debit Card,Delhi
+8498,2024-02-05,Bills,11405,Debit Card,Delhi
+8499,2024-01-21,Entertainment,5381,Credit Card,Jaipur
+8500,2024-10-22,Groceries,18035,Debit Card,Lucknow
