@@ -123,43 +123,28 @@ def generate_charts(df):
     # -----------------------------
     # 5 Scatter plots relationships
     # -----------------------------
-    if len(numeric_cols) >= 2:
-
-        try:
-
-            st.markdown("### Variable Relationships")
-
-            fig = px.scatter(
-                df,
-                x=numeric_cols[0],
-                y=numeric_cols[1],
-                title=f"{numeric_cols[0]} vs {numeric_cols[1]}"
-            )
-
-            st.plotly_chart(fig, use_container_width=True)
-
-        except:
-            st.warning("Could not generate scatter plot.")
-
-        # -----------------------------
-    # 5 Scatter plots relationships
     # -----------------------------
+
     if len(numeric_cols) >= 2:
-
         try:
-
             st.markdown("### Variable Relationships")
+            x_col = numeric_cols[0]
+            y_col = numeric_cols[1]
+            scatter_df = df[[x_col, y_col]].dropna()
 
-            fig = px.scatter(
-                df,
-                x=numeric_cols[0],
-                y=numeric_cols[1],
-                title=f"{numeric_cols[0]} vs {numeric_cols[1]}"
-            )
+            if not scatter_df.empty:
 
-            st.plotly_chart(fig, use_container_width=True)
+                fig = px.scatter(
+                    scatter_df,
+                    x=x_col,
+                    y=y_col,
+                    title=f"{x_col} vs {y_col}"
+                )
+                st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.info("Not enough valid data for scatter plot.")
 
-        except:
+        except Exception as e:
             st.warning("Could not generate scatter plot.")
 
 
@@ -187,7 +172,7 @@ def generate_charts(df):
             })
 
             fig = px.bar(
-                importance,
+                importance.sort_values("Importance", ascending=False),
                 x="Feature",
                 y="Importance",
                 title="Feature Importance"

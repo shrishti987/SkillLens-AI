@@ -5,28 +5,46 @@ def generate_ai_insights(df):
     numeric_cols = df.select_dtypes(include='number').columns
     categorical_cols = df.select_dtypes(include='object').columns
 
-    # numeric insights
+
+    # -------------------
+    # Numeric Insights
+    # -------------------
     for col in numeric_cols:
 
-        mean = round(df[col].mean(),2)
+        mean = round(df[col].mean(), 2)
         max_val = df[col].max()
         min_val = df[col].min()
 
         insights.append(f"{col} average value is {mean}")
         insights.append(f"{col} ranges between {min_val} and {max_val}")
 
-    # categorical insights
+
+    # -------------------
+    # Categorical Insights
+    # -------------------
     for col in categorical_cols[:3]:
 
-        top = df[col].value_counts().idxmax()
+        if not df[col].value_counts().empty:
+            top = df[col].value_counts().idxmax()
+            insights.append(f"Most frequent value in {col} is {top}")
 
-        insights.append(f"Most frequent value in {col} is {top}")
 
-    # correlations
+    # -------------------
+    # Correlation Insight
+    # -------------------
     if len(numeric_cols) >= 2:
 
-        corr = df[numeric_cols].corr().iloc[0,1]
+        corr_matrix = df[numeric_cols].corr().abs()
 
-        insights.append(f"There is a correlation of {round(corr,2)} between {numeric_cols[0]} and {numeric_cols[1]}")
+        # remove self correlation
+        corr_matrix.values[[range(len(corr_matrix))]*2] = 0
+
+        max_corr_pair = corr_matrix.unstack().idxmax()
+        corr_value = corr_matrix.unstack().max()
+
+        insights.append(
+            f"Strong correlation detected between {max_corr_pair[0]} and {max_corr_pair[1]} ({round(corr_value,2)})"
+        )
+
 
     return insights

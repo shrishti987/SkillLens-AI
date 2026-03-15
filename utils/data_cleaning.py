@@ -2,16 +2,19 @@ def clean_data(df):
 
     report = []
 
-    missing = df.isnull().sum().sum()
+    if df.isnull().sum().sum() > 0:
 
-    if missing > 0:
-        df = df.fillna(df.median(numeric_only=True))
-        report.append("Missing values filled")
+        num_cols = df.select_dtypes(include="number").columns
+        cat_cols = df.select_dtypes(exclude="number").columns
 
-    duplicates = df.duplicated().sum()
+        df[num_cols] = df[num_cols].fillna(df[num_cols].median())
+        df[cat_cols] = df[cat_cols].fillna("Unknown")
 
-    if duplicates > 0:
+        report.append("Missing values handled")
+
+    if df.duplicated().sum() > 0:
+
         df = df.drop_duplicates()
-        report.append("Duplicates removed")
+        report.append("Duplicate rows removed")
 
     return df, report

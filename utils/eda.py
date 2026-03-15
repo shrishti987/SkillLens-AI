@@ -1,16 +1,29 @@
 import pandas as pd
 
+
 def generate_summary(df):
 
     summary = {}
 
+    # Dataset shape
     summary["shape"] = df.shape
+
+    # Column names
     summary["columns"] = list(df.columns)
 
-    summary["statistics"] = df.describe().to_dict()
+    # Basic statistics
+    try:
+        summary["statistics"] = df.describe().to_dict()
+    except:
+        summary["statistics"] = {}
 
-    correlation = df.corr(numeric_only=True)
+    # Correlation (only if more than 1 numeric column exists)
+    numeric_df = df.select_dtypes(include="number")
 
-    summary["correlation"] = correlation.to_dict()
+    if numeric_df.shape[1] > 1:
+        correlation = numeric_df.corr()
+        summary["correlation"] = correlation.to_dict()
+    else:
+        summary["correlation"] = {}
 
     return summary
